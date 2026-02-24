@@ -5,14 +5,27 @@ emperor:
   title: emperor
   text: __emperor__ [ˈempərə(r)] n. 皇帝；君主
   example: The emperor;s wisdom and leadership united the diverse regions of his vast empire.
+  vacabulary:
+    - diverse: "[daɪˈvɜːs] a. 多种多样的，不同的; 强调多元化的"
+    - vast: "[ˈvɑːst] a. 广阔的，丰富的； 巨大的"
+    - empire: "[ˈempaɪə(r)] n. 帝国"
 regent:
   title: regent
   text: __regent__ [ˈriːdʒənt] n. 摄政者（代国王统治者）
   example: During the young king's minority, the regent managed the kingdom's affairs with wisdom and fairness.
+  vacabulary:
+    - minority: "[maɪˈnɔːrɪtɪ] n. 少数；未成年"
+    - affair: "[əˈfɔːz] n. 事务；事务所；事务范围"
+  phase:
+    - during one's minority: 在某人未成年期间[法律意义上]
 burgeon:
   title: burgeon
   text: __burgeon__ [ˈbɜːdʒən] vi. 迅速成长；发展
   example: With the arrival of spring, the garden begun to burgeon with vibrant flowers and lush greenery.
+  vacabulary:
+    - vibrant: "[ˈvaɪbrənt] a. 充满生机的；鲜艳的"
+    - lush: "[lʌʃ] a. 茂盛的，繁茂的； 丰富的"
+    - greenery: "[ˈɡriːnəri] n. 绿色植物；绿叶"
 barely:
   title: barely
   text: __barely__ [ˈbeəli] ad. 仅仅，几乎不；赤裸裸地，无遮蔽地
@@ -21,6 +34,12 @@ methane:
   title: methane
   text: __methane__ [/ˈmeθeɪn/] n. 甲烷，沼气
   example: Methane is potent greenhouse gas that is released during the decomposition of organic matter in landfills.
+  vacabulary:
+    - potent: '[ˈpəʊtnt] a. 强有力的；有效的'
+    - greenhouse gas: 温室气体
+    - decomposition: '[ˌdiːkɒmpəˈzɪʃn] n. 分解；腐烂'
+    - organic matter: 有机物质
+    - landfill: '[ˈlændfɔːl] n. 垃圾填埋场；废弃物处理场'
 hierarchy:
   title: hierarchy
   text: __hierarchy__ [ˈhaɪərɑːkɪ] n. 领导层；层次，等级
@@ -44,35 +63,64 @@ roll-film:
 philosophy:
   title: philosophy
   text: __philosophy__ [fɪˈlɔsəfɪ] n. 哲学；哲理
-  example: Her philosophy on life emphasizes the importance of kindness and living in the present monment.
+  example: Her philosophy on life emphasizes the importance of kindness and living in the present moment.
 chronic:
   title: chronic
   text: __chronic__ [ˈkrɔnɪk] a. （疾病）慢性的；积习难改的
   example: He suffers from chronic back pain that has persisted for years despite various treatments.
+  phase:
+    - chronic disease: 慢性病
+    - suffer from: 遭受，患有
+  vacabulary:
+    - persist: '[pəˈsɪst] vi. 持续存在；坚持'
+    - treatment: '[ˈtriːtmənt] n. 治疗；处理'
 desirable:
   title: desirable
   text: __desirable__ [dɪˈzaɪərəbl] a. 值得拥有的；合意的；可取的，有利的
   example: Having a flexible work schedule is highly desirable to many employees as it allows for better work-life balance.
+  phase:
+    - be highly desirable: 值得；受人欢迎； 备受青睐
 consortium:
   title: consortium
   text: __consortium__ [kənˈsɔːtɪəm] n. 集团；财团；社团，协会
   example: The university formed a consortium with several leading technology companies to advance research in artificial intelligence.
+  vocabulary:
+    - advance: '此处做V; vi. 推进；促进；增长' 
 buckle:
   title: buckle
   text: "__buckle__ [ˈbʌkl] n. 皮带扣环 \n\n__buckle__ v. 扣紧；（使）变形；弯曲\n"
   example: Before starting the hike, make sure to buckle your backpack straps securely to avoid any discomfort on the trail.
+  vocabulary:
+    - backpack strap: 背包带
+    - securely: 安全地；稳固地
+    - backpack: '[ˈbækpæk] n. 背包'
+    - strap: '[stræp] n. 带子；皮带'
 curry:
   title: curry
   text: "__curry__ [ˈkʌrɪ] n. 咖喱，咖喱饭菜  \n\n__curry__ vt. 把（肉、蔬菜等）做成咖喱食品；梳刷（马毛等）\n"
   example: Last night, I made a delicious chicken curry with a blend of aromatic spices and fresh vegetables.
+  vocabulary:
+    - aromatic: '[ˌærəˈmætɪk] a. 芳香的；芬芳的'
+    - spice: '[spaɪs] n. 香料；调味品'
+    - blend: '[blend] n. 混合物；混合'
+    - fresh: '[freʃ] a. 新鲜的；未经处理的'
+    - a blend of: 混合物；混合
 subliminal:
   title: subliminal
   text: __subliminal__ [ˏsʌbˈlɪmɪnl] a. 下意识的，潜意识的
   example: The advertisement used sublimnial messages to subtly influence viewers' purchasing decisions without their conscious awareness.
+  vocabulary:
+    - subtly: '此处做D; ad. 微妙地；隐晦地'
+    - influence: '影响；影响力'
+    - conscious: '[ˈkɒnʃəs] a. 有意识的；神志清醒的'
+    - awareness: '意识；认识'
 chamber:
   title: chamber
   text: __chamber__ [ˈtʃeɪmbə(r)] n. 室；洞穴；（枪）膛
   example: The scientist carefully adjusted the pressure inside the vacuum chamber before conducting the experiment.
+  vocabulary:
+    - vacuum chamber: 真空室
+    - vacuum: '[ˈvækjuːm] n. 真空；空间；真空状态'
 frequent:
   title: frequent
   text: __frequent__ [ˈfriːkwənt] a. 频繁的，常见的，常用的
@@ -81,6 +129,8 @@ prosperous:
   title: prosperous
   text: __prosperous__ [ˈprɔspərəs] a. 繁荣的，兴旺的；成功的
   example: Afer years of hard work and dedication, the small business became a prosperous enterprise with a growing customer base.
+  vocabulary:
+    - dedication: '[ˌdedɪˈkeɪʃn] n. 奉献；献身精神'
 physician:
   title: physician
   text: __physician__ [fɪˈzɪʃn] n. 内科医生，医师
@@ -89,26 +139,52 @@ resort:
   title: resort
   text: "__resort__ [rɪˈzɔːt] n. 求助；诉诸；胜地  \n\n__resort__ vi. 求助；诉诸\n"
   example: After trying various treatments without success, she decided to resort to a more advanced medical procedure.
+  vocabulary:
+    - procedure: '[prəˈsiːdʒə(r)] n. 程序；手续；步骤'
+    - resort to: 诉诸；求助于
 equity:
   title: equity
   text: __equity__ [ˈekwətɪ] n. 公平，公正
   example: The company's commitment to equity is evident in its diverse hiring practices and equal opportunity policies.
+  vocabulary:
+    - commitment: '[kəˈmɪtmənt] n. 承诺；奉献；承担义务'
+    - sb/sth's commitment to sth: 某人/某事对某事的承诺
+    - evident: '[ˈevɪdənt] a. 明显的；明白的'
+    - be evident in: 在...中明显；在...中显而易见
+    - diverse: '[daɪˈvɜːs] a. 多种多样的，不同的'
+    - hiring practice: 招聘惯例
 excavate:
   title: excavate
   text: __excavate__ [ˈekskəveɪt] vt. 挖掘，开凿
   example: The archaeologists worked diligently to excavate the ancient ruins and uncover artifacts from the past.
+  vocabulary:
+    - archaeologist: '[ˌɑːkiˈɒlədʒɪst] n. 考古学家'
+    - diligently: '[ˈdɪlɪdʒəntli] ad. 勤勉地；用功地'
+    - ancient: '[ˈænʃənt] a. 古代的；古老的'
+    - ruins: '[ruːn] n. 遗迹；遗址'
+    - uncover: '[ʌnˈkʌvə] vt. 发现；揭开；揭示'
 mutual:
   title: mutual
   text: __mutual__ [ˈmjuːtʃuəl] a. 相互的；共同的
-  example: Their decision to collaborate on he project was based on mutual trust and respect.
+  example: Their decision to collaborate on the project was based on mutual trust and respect.
+  vocabulary:
+    - collaborate: '[kəˈlæbəreɪt] vi. 合作；共同工作'
+    - collaborate on: 在...上合作; 共同...
+    - mutual trust and respect: 相互信任尊重
 hectare:
   title: hectare
   text: __hectare__ [ˈhekteə(r)] n. 公顷
   example: The farm covers an area of 50 hectares, which allows for a diverse range of crops.
+  vocabulary:
+    - crop: '[krɒp] n. 庄稼；农作物'
+    - cover: '[ˈkʌvə(r)] vt. 覆盖；包括；涉及, __占有__, 占据'
 density:
   title: density
   text: __density__ [ˈdensətɪ] n. 密集；浓度，密度
   example: The density of the new material makes it ideal for use in lightweight, durable construction.
+  vocabulary:
+    - lightweight: '[ˈlaɪtweɪt] a. 轻量的；轻便的'
+    - durable: '[ˈdjʊərəbl] a. 耐用的；持久的'
 massive:
   title: massive
   text: __massive__ [ˈmæsɪv] a. 大而重的，厚实的，粗大的；大量的，大规模的 huge
@@ -119,23 +195,42 @@ congratulate:
 companion:
   title: companion
   text: __companion__ [kəmˈpænɪən] n. 共事者；同伴
-  example: She brought her loyral dog along as her companion on the long road trip.
+  example: She brought her loyal dog along as her companion on the long road trip.
+  vocabulary:
+    - loyal: '[ˈlʌɪəl] a. 忠诚的；忠心的'
 rig:
   title: rig
   text: "__rig__ [rɪg] vt. 操纵，垄断  \n\n__rig__ n. 船桅（或船帆等）的装置；成套器械\n"
   example: The crew worked quickly to rig the sailboat for the upcoming race.
+  vocabulary:
+    - crew: '[kruː] n. 全体船员；全体工作人员'
+    - rig: 装帆，提供索具; 操纵
+    - sailboat: '[ˈseɪlbəʊt] n. 帆船'
+    - race: '[reɪs] n. 竞赛；比赛'
 merely:
   title: merely
   text: __merely__ [ˈmiəli] ad. 仅仅，只不过
   example: She was merely trying to help, but it was misunderstood as interference.
+  vocabulary:
+    - interfere: '[ˌɪntəˈfɪə(r)] vi. 干涉；干预；妨碍'
 impart:
   title: impart
   text: __impart__ [ɪmˈpɑːt] vt. 给予，赋予；传授；告知，透露
   example: The teacher's goal is to impart knowledge and inspire curiosity in her students.
+  vocabulary:
+    - impart knowledge: 传授知识
+    - inspire curiosity: 激发好奇心
 forfeit:
   title: forfeit
   text: "__forfeit__ [ˈfɔːfɪt] v. （因犯规等而）丧失，失去  \n\n__forfeit__ n. 罚款；代价\n"
   example: If you fail to attend the mandatory training session, you may forfeit your eligibility for the promotion.
+  vocabulary:
+    - mandatory: '[ˈmændətəri] a. 强制的；义务的'
+    - training session: 培训课程；训练会议'
+    - eligibility: '[ˌelɪdʒəˈbɪləti] n. 资格；合格'
+    - eligible for: 有资格获得...
+    - eligible: '[ˈelɪdʒəbl] a. 有资格的；合格的'
+    - promotion: '[prəˈməʊʃn] n. 升职；晋升；提拔'
 calorie:
   title: calorie
   text: __calorie__ [ˈkælərɪ] n. 卡（路里）， 大卡（食物的热量）
@@ -147,11 +242,13 @@ van:
 ventilation:
   title: ventilation
   text: __ventilation__ [ˌventɪ'leɪʃn] n. 空气流通；通风设备，通风方法
-  example: Proper ventilation in the office is essential to ensure a healtht and comfortable working environment.
+  example: Proper ventilation in the office is essential to ensure a healthy and comfortable working environment.
 intermediate:
   title: intermediate
   text: __intermediate__ [ˏɪntəˈmiːdɪət] a. 中间的，中级的
   example: She enrolled in an intermediate Spanish course to improve her language skills after completing the beginner level.
+  vocabulary:
+    - enroll in: 注册,报名参加
 eternal:
   title: eternal
   text: __eternal__ [ɪˈtɜːnl] a. 永恒的
@@ -159,7 +256,10 @@ eternal:
 invasion:
   title: invasion
   text: __invasion__ [ɪnˈveɪʒn] n. 入侵，侵略
-  example: The historical records describe the invasion of Normandy as a pivotal moment in World War II.
+  example: The historical records describe the invasion of Normandy(诺曼底) as a pivotal moment in World War II.
+  vocabulary:
+    - pivotal: '[ˈpɪvətl] a. 关键的；核心的'
+    - historical record: 历史记录；历史资料
 nevertheless:
   title: nevertheless
   text: "__nevertheless__ [ˏnevəðəˈles] ad. 仍然；然而  \n\n__nevertheless__ conj. 然而，不过\n"
@@ -168,14 +268,24 @@ celebrate:
   title: celebrate
   text: __celebrate__ [ˈselɪbreɪt] v. 赞扬，歌颂；庆祝
   example: We gathered to celebrate her promotion with a surprise party and heartfelt toasts.
+  vocabulary:
+    - heartfelt: '[ˈhɑːtfelt] a. 衷心的；真诚的'
+    - toast: '[təʊst] n. 祝酒词；敬酒'
+    - heartfelt toast: 衷心的祝酒词
+    - sincere: '[sɪnˈsɪə(r)] a. 真诚的；诚挚的'
+    - heartfelt sincere: 衷心诚挚的
 inspiring:
   title: inspiring
   text: __inspiring__ [ɪn'spaɪərɪŋ] a. 鼓舞（或激励）人心的；启发灵感的
   example: Her speech was incredibly inspiring and motivated everyone to pursue their dreams.
+  vocabulary:
+    - pursue: '[pəˈsjuː] vt. 追求；从事；继续进行'
 attendance:
   title: attendance
   text: __attendance__ [əˈtendəns] n. 到场，出席；出勤；伺候，照料
   example: Regular attendance at the meetings is crucial for staying updated on the project's progress.
+  vocabulary:
+    - stay updated on: 了解最新情况；掌握最新动态
 departmental:
   title: departmental
   text: __departmental__ [‚diːpɑːt'mentl] a. 部门的
@@ -188,6 +298,8 @@ dismantle:
   title: dismantle
   text: __dismantle__ [dɪsˈmæntl] vt. 拆除；废除，取消
   example: After the festival, the team worked to dismantle the stage and clean up the area.
+  vocabulary:
+    - stage: '[steɪdʒ] n. 舞台；阶段'
 wage:
   title: wage
   text: __wage__ [weɪdʒ] n. 工资；[常 pl.] 报酬
@@ -196,10 +308,15 @@ landscape:
   title: landscape
   text: "__landscape__ [ˈlændskeɪp] n. 风景  \n\n__landscape__ vt. 对……作景观美化，美化（自然环境等）\n"
   example: The artist captured the breathtaking landscape of the mountains in his latest painting.
+  vocabulary:
+    - breathtaking: '[briˈθætɪŋ] a. 壮观的；惊人的'
+    - landscape: '[ˈlændskeɪp] n. 风景；自然风光'
 commonwealth:
   title: commonwealth
   text: __commonwealth__ [ˈkɔmənwelθ] n. [the C-] 英联邦；联合体
   example: The Commonwealth of Nations works together to promote economic development and cultural exchange among its member countries.
+  vocabulary:
+    - cultural exchange: 文化交流
 newsletter:
   title: newsletter
   text: __newsletter__ ['njuːzletə] n. 时事通讯，业务通讯
