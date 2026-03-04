@@ -4,184 +4,319 @@
 regional:
   title: regional
   text: __regional__ ['rɪːdʒənl] a. 局部范围的；地方（性）的，区域性的；全地区的，整个地区的
+  example: the regional economy is booming, with a 5.5% increase in gross domestic product.
+  vocabulary:
+    - gross domestic product 国内生产总值
+    - gross: '[ɡrəus] n. 总额；毛重；总利润  \na. 总的；毛的\n'
+    - domestic: '[dəˈmestɪk] a. 国内的；家庭的\n'
 secure:
   title: secure
   text: "__secure__ [sɪˈkjuə(r)] v. 得到某物，获得；防护，保卫  \n\n__secure__ a. 安全的；可靠的，放心的\n"
+  example:
+    1. The company secured a contract with a major client. 公司与一家主要客户签订了合同。【secure获得，取得】
+    2. The secure environment of the prison is designed to prevent escapes. 监狱的安全环境旨在防止逃脱。
+    3. The secure attachment between the child and their caregiver is important for their development. 孩子和照顾者之间的安全依恋对他们的发展很重要。
+  vocabulary:
+    - secure a contract with + n: 与……签订合同，取得合同
 preserve:
   title: preserve
   text: __preserve__ [prɪˈzɜːv] vt. 保护；维持；保存，保藏；腌渍
+  example: The preserve of the national park is to protect the natural environment and wildlife. 国家公园的保护区旨在保护自然环境和野生动物。
 reject:
   title: reject
   text: "__reject__ [rɪˈdʒekt] vt. 拒绝   \n\n__reject__ [ˈriːdʒekt] n. 被拒货品，不合格品\n"
+  example: The company rejected the proposal for the new project. 公司拒绝了新项目的提议。
 seek:
   title: seek
   text: __seek__ [siːk] v. 寻找；探索；追求
+  example: seek to improve their performance in the next competition.
+  vocabulary:
+    - seek to do sth: 试图做某事，努力做某事
 crown:
   title: crown
-  text: __crown__ [kraun] n. 王冠；花冠；齿冠
+  text: __crown__ [kraun] n. 王冠；花冠；齿冠; 顶点,最高点
+  example: 'The mountain’s crown was covered in snow. 此处表示顶点'
 fabrication:
   title: fabrication
   text: __fabrication__ [‚fæbrɪ'keɪʃn] n. 捏造，伪造；制作；构成
+  example: 
+    - 1.the fabrication of evidence to convict an innocent man is a serious matter. [捏造]
+    - 2.the fabrication of the car took three months. [制造]
+  vocabulary:
+    - convict: '[kənˈvɪkt] vt. 定罪；证明……有罪\n'
 variation:
   title: variation
   text: __variation__ [ˏveərɪˈeɪʃn] n. 变化，变动；变种；变异；变更；变奏
+  example: The variation in temperature between day and night can be significant. 白天和晚上的温差可能很大。
 distraction:
   title: distraction
   text: ____ [dɪˈstrækʃn] n. 分散注意力的事；使人分心的事；娱乐，消遣 something that prevents someone from giving full attention
   example: add to this an increased exposure to technology, and the distractions may feel almost insurmountable
+  vocabulary:
+    - exposure: '[ɪkˈspəʊʃn] n. 公开，曝光；曝光度；暴露\n'
+    - insurmountable: '[ɪnsəˈmaʊntəbl] a. 无法克服的，难以应付的\n'
+    - surmountable: '[səˈmaʊntəbl] a. 可克服的，能应付的\n'
+    - add to this: '再加上这个（问题）, 更何况, 除此之外'
+    - exposure to + n: '接触到,暴露于,面临'
 complicate:
   title: complicate
   text: __complicate__ [ˈkɔmplɪkeɪt] vt. 使变复杂
+  example: complicate matters by introducing new regulations.
+  vocabulary:
+    - introduce: '[ɪnˈtrudʒ] vt. 引入，提出；使增加；使复杂化\n'
+    - regulation: '[ˌreɡjuˈleɪʃn] n. 规则，规章；管理，控制\n'
+    - discipline: '[ˈdɪsəplɪn] n. 纪律；学科\n'
 tram:
   title: tram
   text: "__tram__ [træm] n. 有轨电车，电车轨道  \n\n__tram__ v. 乘电车\n"
+  example: The tram is a popular mode of transportation in many parts of the city.
 maturity:
   title: maturity
   text: __maturity__ [mə'tʃʊərətɪ] n. 成熟；完善，完备，准备就绪；到期（应付款）
+  example: The company has achieved maturity in the field of finance.
+  vocabulary:
+    - mature: '[məˈtʃʊə(r)] a. 成熟的；完善的；到期的\n'
+    - mature market: 成熟市场
 extent:
   title: extent
   text: __extent__ [ɪkˈstent] n. 范围；面积；广度，长度；程度
+  example: The extent of the damage is unknown.
 evacuate:
   title: evacuate
   text: __evacuate__ [ɪˈvækjueɪt] v. 疏散；撤离
+  example: They evacuated the building as soon as possible.
 stint:
   title: stint
-  text: __stint__ [stɪnt] n. 定量；限额
+  text: __stint__ [stɪnt] n. 定量；限额, 一段时间
+  example: 
+    - The stint is a fixed period of time.
+    - He only had a short stint at the job. "他在这份工作上只干了很短的一段时间。"
 embankment:
-  title: embarkment
-  text: __embarkment__ [ɪmˈbæŋkmənt] n. 筑堤；堤岸，路基
+  title: embankment
+  text: __embankment__ [ɪmˈbæŋkmənt] n. 堤岸，堤防
+  example: The embankment was built to protect the city from flooding.
 squash:
   title: squash
   text: "__squash__ [skwɔʃ] n. 软式墙网球，壁球  \n\n__squash__ v. 压碎，挤压；挤进，塞入；镇住，镇压；制止\n"
+  example: She squashed the bug with her shoe. 她用鞋子把虫子压死了。
 federation:
   title: federation
   text: __federation__ [‚fedə'reɪʃn] n. 联邦；同盟
+  example: The federation of states was formed to promote economic cooperation.
 surge:
   title: surge
   text: "__surge__ [sɜːdʒ] v. （人群等）蜂拥而出；波动，涌动  \n\n__surge__ n. （感情等的）洋溢；猛增\n"
+  example: The surge of support from the media has caused concern.
 physical:
   title: physical
   text: "__physical__ [ˈfɪzɪkl] a. 身体的，肉体的；物理的，物理学的；物质的，有形的； \n\n__physical__ n. 体检\n"
+  example: The physical health of the patient is improving.
 justify:
   title: justify
   text: __justify__ [ˈdʒʌstɪfaɪ] v. 证明……为正当的；为……辩护
+  example: The case should be justified by the evidence. '这个案子应当以证据来证明其合理性。'
 score:
   title: score
   text: "__score__ [skɔː(r)] v. 得分，记分；给（试卷等）打分，给……评分；刻痕于，画线于；获胜，成功  \n\n__score__ n. 得分，分数；乐谱；抓痕，划痕；二十\n"
+  example: The team scored a goal in the last minute of the game. 该队在比赛的最后一分钟攻入了一球。
 persuade:
   title: persuade
   text: __persuade__ [pəˈsweɪd] v. 说服，劝说；使相信
+  example: persuade the company to adopt new policies.
+  vocabulary:
+    - adopt: '[əˈdɒpt] vt. 采用，采纳；收养\n'
+    - persuade sb to do sth: 说服某人做某事
 migration:
   title: migration
   text: __migration__ [maɪ'greɪʃn] n. 迁徙，移居，移民
+  example: The migration of people from rural areas to urban areas has been a significant concern.
 overweight:
   title: overweight
   text: "__overweight__ [ˏəuvəˈweɪt] a. 超重的，过重的  \n\n__overweight__ n. 超重，过重  \n\n__overweight__ vt. 使负担过重\n"
+  example: The overweight children are not allowed to play in the playground.
 cooperation:
   title: cooperation
   text: __cooperation__ [kəuˏɔpəˈreɪʃn] n. 合作，协作；配合
+  example: The cooperation between the two companies has been successful.
 zoological:
   title: zoological
   text: __zoological__ [‚zəʊə'lɑdʒɪkl] a. 动物学的
 stamp:
   title: stamp
   text: "__stamp__ [stæmp] v. 跺（脚），重踏；在……上盖（字样或图案等）；重步走  \n\n__stamp__ n. 邮票，印花；印，图章；标志，印记；跺脚，顿足\n"
+  example: The stamp on the letter indicates that it was sent from New York. 信上的邮戳表明它是从纽约寄出的。
 whistle:
   title: whistle
   text: "__whistle__ [ˈwɪsl] v. 吹口哨  \n\n__whistle__ n. 口哨；呼啸而过\n"
+  example: He whistled a tune as he walked down the street. 他走在街上吹着口哨哼着曲子。
+  vocabulary:
+    - tune: '[tjuːn] n. 曲调，旋律\n'
 detective:
   title: detective
   text: "__detective__ [dɪˈtektɪv] n. 侦探  \n\n__detective__ a. 侦探的\n"
+  example: The detective solved the case and caught the criminal. 侦探破案并抓住了罪犯。
+  vocabulary:
+    - solve the case: 破案
+    - catch the criminal: 抓住罪犯
 ceremony:
   title: ceremony
   text: __ceremony__ [ˈserɪmənɪ] n. 典礼；仪式
+  example: The ceremony was a traditional occasion for the family.
 diagnose:
   title: diagnose
   text: __diagnose__ [ˈdaɪəgnəuz] v. 诊断；判断
+  example: The doctor diagnosed the patient with a fever.
+  vocabulary:
+    - diagnose with + n: 诊断出……疾病
 denote:
   title: denote
   text: __denote__ [dɪˈnəut] v. 表示，指示；意味着
+  example: The red color on the map denotes danger. 地图上的红色表示危险。
 chink:
   title: chink
   text: "__chink__ [tʃɪnk] n. 裂缝，裂口；一缕光；叮当声  \n\n__chink__ v. （使）发出叮当声\n"
+  example: The chink in the roof was blocked by a tree. 屋顶裂缝被一棵树堵住了。
+  vocabulary:
+    - be blocked by + n: 被阻止，被困住
 iris:
   title: iris
   text: __iris__ [ˈaɪərɪs] n. （pl. irises或irides）虹；（眼球的）虹膜
+  example: The iris is a pigment that gives the eye color. “虹膜是赋予眼睛颜色的色素。”
+  vocabulary:
+    - pigment: '[pɪɡmənt] n. 颜料，色素\n'
 entire:
   title: entire
   text: __entire__ [ɪnˈtaɪə(r)] a. 全部的，整个的 complete; whole
   example: a tourist can easily spend an entire week visiting these 16 museums, which all have free admission
+  vocabulary:
+    - museum: '[mjuːzəm] n. 博物馆\n'
+    - admission: '[ədˈmɪʃn] n. 入场费，入园费；允许进入\n'
 epitomise:
   title: epitomise
   text: __epitomise__ [ɪˈpɪtəmaɪz] vt. 集中体现；概括
+  example: The epitomise of the novel is its ability to capture the reader's attention.
+  vocabulary:
+    - epitome: '[ɪˈpɪtəm] n. 代表物，代表性的事物, 典型\n'
 crocodile:
   title: crocodile
   text: __crocodile__ [ˈkrɔkədaɪl] n. 鳄鱼；鳄鱼皮
+  example: The crocodile is a large, slender lizard that is often used for hunting.
+  vocabulary:
+    - slender: '[(slɛn)] a. 瘦长的，柔弱的；柔韧的，柔顺的\n'
+    - lizard: '[ˈlɪzəd] n. 蜥蜴,类蜥蜴爬行动物\n'
 summit:
   title: summit
   text: __summit__ [ˈsʌmɪt] n. （山等的）最高点，峰顶
+  example: The summit of the mountain was covered in snow. 山顶被雪覆盖了。
 odour:
   title: odour
   text: __odour__ [ˈəudə(r)] n. 气味
+  example: The odour of the cigarette smells unpleasant. 香烟的气味很不舒服。
 accurate:
   title: accurate
   text: __accurate__ [ˈækjərət] a. 正确无误的；精确的
+  example: The accurate measurement of the distance is important for the success of the experiment. 准确测量距离对于实验的成功很重要。
 superior:
   title: superior
   text: "__superior__ [suːˈpɪərɪə(r); sjuː-] a. 上级的，（在职位、地位等方面）较高的；优越的，优于……的，较……多的；优良的，卓越的；有优越感的，高傲的  \n\n__superior__ n. 上级，长官\n"
+  example: The superior quality of the product has made it popular among consumers. 产品的优良质量使其在消费者中很受欢迎。
+  
 tender:
   title: tender
   text: ____ [ˈtendə(r)] a. 嫩的；脆弱的；温柔的
+  example: 
+    - 1. The tender leaves of the plant are used in cooking. 这种植物的嫩叶被用来烹饪。
+    - 2. She gave me a tender smile. 她给了我一个温柔的微笑。
+    - 3. A tender moment between the two lovers. 两个恋人之间的温馨时刻。
 seep:
   title: seep
   text: __seep__ [siːp] vi. 漏出，渗漏
+  example: The water seeps through the walls of the room. 这间房间的墙壁被水流冲刷。
 ambassador:
   title: ambassador
   text: __ambassador__ [æmˈbæsədə(r)] n. 大使，使节
+  example: The ambassador was appointed to represent the country in the United Nations. 大使被任命为代表国家在联合国。
+  vocabulary:
+    - appoint: '[əˈpɔɪnt] vt. 任命，委任；约定，指定\n'
 delinquency:
   title: delinquency
   text: __delinquency__ [dɪˈlɪŋkwənsɪ] n. 失职；行为不良
+  example: The delinquency of the employee has caused him financial difficulties. 员工的失职导致他财务困难。
+  vocabulary:
+    - delinquent: '[dɪˈlɪŋkwənt] a. 失职的；行为不良的\n'
 deliberate:
   title: deliberate
   text: "__deliberate__ [dɪˈlɪbərət] a. 故意的；深思熟虑的；从容不迫的:   \n\n__deliberate__ [dɪˈlɪbəreɪt] v. 深思熟虑；审议\n"
+  example: The deliberate decision to delay the project was made after careful consideration. 延迟项目的决定是在仔细考虑后做出的。
+  vocabulary:
+    - deliberate decision: 深思熟虑的决定
+    - careful consideration: 仔细考虑
 implication:
   title: implication
   text: __implication__ [ˏɪmplɪˈkeɪʃn] n. 含意；暗示，暗指；卷入，牵连
+  example: The implication of the new policy is that it will have a significant impact on the economy. 新政策的含义是它将对经济产生重大影响。
+  vocabulary:
+    - imply: '[ɪmˈplaɪ] vi. 隐含，暗示；意指\n'
 broom:
   title: broom
   text: __broom__ [bruːm] n. 扫帚
+  example: The broom is used to clean the floors and to keep the house clean. 扫帚用来清洁地面和保持房间整洁。
 opponent:
   title: opponent
   text: |
     __opponent__ [əˈpəunənt] n. 敌手，对手；反对者 someone who disagree with a person or idea
-
     __opponent__ a. 对立的，对抗的
   example: opponents of mandatory uniforms say that students who wear school uniforms cannot express their individuality
+  vocabulary:
+    - mandatory: '[ˈmændətəri] a. 强制的，义务的\n'
+    - express individuality: 表达个性
 sponsor:
   title: sponsor
   text: "__sponsor__ [ˈspɔnsə(r)] n. 发起者，赞助人，主办者；主顾   \n\n__sponsor__ vt. 发起，主办；赞助，资助；惠顾\n"
+  example: The sponsor of the event provided financial support for the project. 活动的赞助商为项目提供了资金支持。
 decisive:
   title: decisive
   text: __decisive__ [dɪˈsaɪsɪv] a. 决定性的；果断的
+  from: decide
+  example: 
+   - 1. He made a decisive decision to end the project. 他做出了一个果断的决定来结束这个项目。
+   - 2. a decisive victory 决定性的胜利
 substantial:
   title: substantial
   text: __substantial__ [səbˈstænʃl] a. 可观的，大量的；坚固的，结实的；实质的；大体上的 large, considerable
   example: insomnia, the inability to fall asleep or stay asleep, affects a substantial number of individuals
+  vocabulary:
+    - insomnia: '[ɪnˈsɒmniə] n. 失眠症\n'
+    - fall asleep: 睡着，入睡
+    - stay asleep: 睡觉，睡觉觉
+
 questionnaire:
   title: questionnaire
   text: __questionnaire__ [ˏkwestʃəˈneə(r)] n. 问卷，调查表
+  example: The questionnaire was designed to gather information about the participants' opinions on the new policy. 该问卷旨在收集参与者对新政策的意见。
 viewpoint:
   title: viewpoint
   text: __viewpoint__ [ˈvjuːpɔɪnt] n. 观点，看法
+  example: The viewpoint of the author is that the new policy will have a positive impact on the economy. 作者的观点是新政策将对经济产生积极影响。
 routine:
   title: routine
   text: "__routine__ [ruːˈtiːn] n. 例行公事；惯例  \n__routine__ a. 例行的；常规的\n"
+  example: The routine work of the office requires a high degree of discipline. 办公室的日常工作需要高度的纪律性。
 nurture:
   title: nurture
   text: "__nurture__ [ˈnɜːtʃə(r)] vt. 培养；滋养  \n\n__nurture__ n. 营养品\n"
+  example: The nurture of the child is important for their development. 孩子的培养对他们的发展很重要。
 genetic:
   title: genetic
   text: "__genetic__ [dʒɪˈnetɪk] a. 遗传的  \n\n__genetic__ n. [-s] 遗传学\n"
+  example: The genetic makeup of an individual can influence their susceptibility to certain diseases. 个体的遗传构成可以影响他们对某些疾病的易感性。
+  vocabulary:
+    - genetic makeup: 遗传构成
+    - makeup: '[meɪkʌp] n. 构成，组成；化妆品\n'
+    - susceptibility: '[səˌsɛptɪˈbɪləti] n. 易受感染性；易受影响性\n'
+    - susceptible to + n: 易受……影响的，易受……感染的
+    - susceptible: '[səˈsɛptɪbəl] a. 易受影响的，易受感染的\n'
 similarly:
   title: similarly
   text: __similarly__ ['sɪmələlɪ] ad. 同样地，类似地
+  example: The two products are similarly priced, but they have different features. 这两款产品价格相似，但它们有不同的功能。
