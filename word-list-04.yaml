@@ -5,25 +5,44 @@
 incredible:   
   title: incredible
   text: __incredible__ [ɪnˈkredəbl] a. 不可信的；难以置信的
+  example: The story of his escape from prison is incredible. 他越狱的经历令人难以置信。
+  vocabulary:
+    - escape: '[ɪsˈkeɪp] v. 逃脱，逃跑；泄露，逃逸'
+    - escape from: '逃离，逃出'
+    - prison: '[ˈprɪzn] n. 监狱；监禁'
 
 vertebrate:   
   title: vertebrate
   text: |
     __vertebrate__ [ˈvɜ:tɪbrət] n. 脊柱动物  
-    
+
     __vertebrate__ a. 有脊柱的
+  example: The vertebrate has a backbone that supports its body. 脊椎动物有支撑其身体的骨骼。
 
 industrious:   
   title: industrious
   text: __industrious__ [ɪnˈdʌstrɪəs] a. 勤奋的，勤勉的，勤劳的
+  from: industry [ˈɪndəstri] n. 工业；行业；勤劳，勤奋
+  similar: 
+    - diligent: '[ˈdɪlɪdʒənt] a. 勤奋的，勤勉的'
+    - hardworking: '[hɑːˈdraɪkwɪŋ] a. 勤劳的，勤奋的'
+  example: The industrious worker is always busy with his work. 勤劳的工人总是忙于工作。
 
 intestine:   
   title: intestine
   text: __intestine__ [ɪnˈtestɪn] n.[解]肠
+  example: The intestine is the organ that carries the bacteria and other nutrients to the body. 肠是传播细菌和其他营养物质的器官。
+  vocabulary:
+    - organ: '[ˈɔ:nə] n. 器官；器械；组织'
+    - carry: '[ˈkær] v. 运送；携带；运输'
+    - bacteria: '[ˈbækətəriə] n. 细菌'
+    - nutrients: '[ˈnʌtərɪnts] n. 营养物质'
 
 outpost:   
   title: outpost
   text: __outpost__ [ˈautpəust] n. 前哨（站）；偏远村落
+  root: out- [外面] + post [站]
+  example: The outpost is a small town located in the middle of the desert. 前哨站位于沙漠中部。
 
 general:   
   title: general
@@ -31,6 +50,9 @@ general:
     __general__ [ˈdʒenrəl] a. 一般的，普通的；全体的，普遍的；大体的，概括的；首席的  
     
     __general__ n. 将军
+  example: The general is a high-ranking military officer. 将军是高级军官。
+  vocabulary:
+    - high-ranking: '[haɪˈræŋkɪŋ] a. 高级的，高层的'
 
 bother:   
   title: bother
@@ -38,48 +60,79 @@ bother:
     __bother__ [ˈbɔðə(r)] v. 打扰，烦扰；烦恼，操心  
     
     __bother__ n. 麻烦，烦扰
+  example: Don't bother me while I'm working. 我工作的时候别打扰我。
 
 consignment:   
   title: consignment
   text: __consignment__ [kən'saɪnmənt] n. 交付，委托；投递，发送；所托运的货物
+  similar: 
+    - delivery: '[dɪˈlɪvəri] n. 交付；递送；分娩'
+    - shipment: '[ˈʃɪpmənt] n. 装运；装载的货物；装运的数量'
+  example: 
+    - The consignment of goods was delayed due to bad weather. 由于恶劣的天气，货物的交付被延迟了。
+    - The delivery of the consignment was completed successfully. 货物的交付成功完成了。
+    - The shipment of the consignment was delayed due to a problem with the transportation. 由于运输问题，货物的装运被延迟了。
 
 administrator:   
   title: administrator
   text: __administrator__ [ədˈmɪnɪstreɪtə(r)] n. 管理者，管理人员；行政人员
+  example: The administrator is responsible for managing the company's operations. 管理员负责管理公司的运营。
 
 convention:   
   title: convention
   text: __convention__ [kənˈvenʃn] n. 大会，会议；惯例，常规，习俗；公约，协定
+  root: con- [共同] + ven- [来] + -tion [名词后缀]
+  example: The convention is a meeting of representatives from different countries to discuss important issues. 大会是来自不同国家的代表们讨论重要问题的会议。
 
 organic:   
   title: organic
   text: __organic__ [ɔːˈgænɪk] a. 器官的；有机的；有机体的；组织的
+  from: organ [ˈɔːɡən] n. 器官；机构；风琴
+  example: Organic chemistry is the study of organic compounds. 有机化学是研究有机化合物的学科。
 
 trapeze:   
   title: trapeze
   text: __trapeze__ [trəˈpiːz] n. 高空秋千；吊架
+  example: The trapeze artist performed a daring stunt on the high wire. 高空秋千表演者在高空钢丝上表演了一项大胆的特技。
+  vocabulary:
+    - 
+      daring: '[ˈdeərɪŋ] a. 大胆的，冒险的'
+      from: dare [deər] v. 敢于，冒险；挑战；试图,激将
+    - stunt: '[stʌnt] n. 特技；绝技；惊险的行为'
 
 intersection:   
   title: intersection
   text: __intersection__ [‚ɪntə(r)'sekʃn] n. 道路交叉口，十字路口
+  root: inter- [在……之间] + sect- [切] + -ion [名词后缀]
+  example: The intersection is a busy area where many cars and pedestrians cross. 十字路口是一个繁忙的区域，许多汽车和行人交叉通过。
 
 concept:   
   title: concept
   text: __concept__ [ˈkɔnsept] n. 概念，观念；设想 a general idea, often abstract
-  example0: having this "expert" friend who explained difficult math concepts allowed Juan to process the subject more easily
-  example1: the concepts is easy enough: potential buyers fill out a shopping profile and let the shopping service choose items that fit their profile and preferences
+  example: Having this "expert" friend who explained difficult math concepts allowed Juan to process the subject more easily. 有了这个“专家”朋友，胡安能够更容易地理解这个学科。
 
 cardiovascular:   
   title: cardiovascular
   text: __cardiovascular__ [ˌkɑ:diəʊˈvæskjələ(r)] a. 心血管的
+  root: cardio- [心脏] + vascular [血管]
+  example: Cardiovascular disease is a leading cause of death worldwide. 心血管疾病是全球主要的死亡原因之一。
 
 humble:   
   title: humble
   text: __humble__ [ˈhʌmbl] a. 谦逊的，谦虚的；地位（或身份）低下的，卑贱的；简陋的，低劣的  vt. 使谦恭；使卑下；贬低
+  example: The humble worker is content with his simple life. 谦逊的工人满足于他简单的生活。
+  vocabulary:
+    - content: '[kənˈtent] a. 满足的，满意的; n. 内容，目录'
+    - be content with: '满意，满足'
+    - be content to do: '乐意做某事'
+    - be satisfied with: '满意，满足'
 
 lecture:   
   title: lecture
   text: __lecture__ [ˈlektʃə(r)] n. 演讲，讲课
+  example: The professor gave a lecture on the history of art. 教授就艺术史做了一场演讲。
+  vocabulary:
+    - give a lecture on: '就……做演讲'
 
 counter:   
   title: counter
@@ -87,58 +140,85 @@ counter:
     __counter__ [ˈkauntə(r)] n. 柜台  
     
     __counter__ ad. 相反
-
+  example:
+   - 1. The counter is where customers can place their orders. 柜台是顾客下订单的地方。
+   - 2. The counter argument is that the new policy will have negative consequences. 相反的论点是新政策将会带来负面影响
 brass:   
   title: brass
   text: __brass__ [brɑːs] n. 黄铜；黄铜器；铜管乐器
+  example: The brass band played a lively tune at the parade. 铜管乐队在游行中演奏了一首欢快的曲子。
+  vocabulary:
+    - lively: '[ˈlaɪvli] a. 活泼的，生动的；充满活力的'
+    - parade: '[pəˈreɪd] n. 游行，阅兵；炫耀，展示'
 
 fauna:   
   title: fauna
-  text: __fauna__ [ˈfɔːnə] n. （某地区或某时期的）所有动物
+  text: __fauna__ [ˈfɔːnə] n. （某地区或时期的）动物群，动物区系
+  example: The fauna of the Amazon rainforest is incredibly diverse. 亚马逊雨林的动物种类非常丰富。
+  vocabulary:
+    - diverse: '[daɪˈvɜːs] a. 多样的；不同的；多种多样的'
+    - variety: '[vəˈraɪəti] n. 多样化；种类，品种'
 
 expel:   
   title: expel
   text: __expel__ [ɪkˈspel] vt. 把……开除；驱逐
-  example: We have no alternative but to expel you from factory.
+  example: We have no alternative but to expel you from factory.我们别无选择，只能将你开除出厂。
+  vocabulary:
+    - alternative: '[ˈæltərənt] a. 替代的，可取代的；可替代的'
+    - expel sb from: '把某人开除出……'
+    - expel from: '驱逐，开除'
 
 equator:   
   title: equator
   text: __equator__ [ɪˈkweɪtə(r)] n. （地球）赤道
+  example: The equator is an imaginary line that divides the Earth into the Northern and Southern Hemispheres. 赤道是将地球分为南北两半的假想线。
+  vocabulary:
+    - hemisphere: '[ˈhemɪsfɪə(r)] n. 半球'
 
 invest:   
   title: invest
   text: __invest__ [ɪnˈvest] v. 投资；投入（时间、精力等）；授予，赋予
+  example: The company plans to invest in new technology to improve its products. 公司计划投资新技术以改进其产品。
 
 essay:   
   title: essay
   text: __essay__ [ˈeseɪ] n. （作为课程作业的）短文、文章；评论文
+  example: The student wrote an essay on the importance of education. 学生写了一篇关于教育重要性的文章。
 
 dedicate:   
   title: dedicate
   text: __dedicate__ [ˈdedɪkeɪt] vt. 献（身）；（在著作等上）题献词
+  example: The author dedicated his book to his parents. 作者将他的书献给了他的父母。
+  vocabulary:
+    - dedicate sth to sb: '将某物献给某人'
+    - dedicate oneself to sth: '致力于某事'
 
 astrology:   
   title: astrology
   text: __astrology__ [əˈstrɔlədʒɪ] n. 占星学；占星术
+  root: astro- [星星] + -logy [学科]
+  example: She is interested in astrology and often reads books about it. 她对占星术很感兴趣，经常阅读有关这方面的书籍。
 
 attain:   
   title: attain
   text: __attain__ [əˈteɪn] vt. 达到；获得；完成
+  similar: 
+    - achieve: '[əˈtʃiːv] vt. 实现，完成；达到'
+    - accomplish: '[əˈkʌmplɪʃ] vt. 完成，实现；达到'
+  example: The athlete attained a new world record in the 100-meter dash. 这位运动员在100米短跑中创造了新的世界纪录。
 
 divisional:   
   title: divisional
   text: __divisional__ [dɪ'vɪʒənl] a. 部门的
+  from: divide
+  example: The divisional manager is responsible for overseeing the operations of a specific department. 部门经理负责监督特定部门的运营。
+  vocabulary:
+    - oversee: '[ˌəʊvəˈsiː] vt. 监督，管理；俯瞰'
 
 ambition:   
   title: ambition
   text: __ambition__ [æmˈbɪʃn] n. 雄心，抱负；野心
-
-range:   
-  title: range
-  text: |
-    __range__ [reɪndʒ] n. 范围，领域；系列；（山）脉；射程  
-    
-    __range__ v.（在一定范围内）变化，变动；排列
+  example: Her ambition is to become a successful entrepreneur. 她的抱负是成为一名成功的企业家。
 
 ultimate:   
   title: ultimate
@@ -146,10 +226,16 @@ ultimate:
     __ultimate__ [ˈʌltɪmət] a. 最后的，最终的；根本的  
     
     __ultimate__ n. 最好（或先进、伟大等）的事物，极品，精华
+  similar:
+    - final: '[ˈfaɪnl] a. 最后的，最终的；决定性的'
+    - eventual: '[ɪˈventʃuəl] a. 最终的，结果的；可能的'
+  example: The ultimate goal of the project is to improve the quality of life for people in the community. 该项目的最终目标是改善社区居民的生活质量。
 
 counsellor:   
   title: counsellor
   text: __counsellor__ [ˈkaunsələ(r)] n. 顾问，辅导顾问
+  root: counsel [ˈkaunsl] n. 忠告，建议；律师; v. 忠告，建议
+  example: The counsellor provided guidance and support to the students. 辅导员为学生提供指导和支持。
 
 flap:   
   title: flap
@@ -157,25 +243,37 @@ flap:
     __flap__ [flæp] v. 拍打；（翅膀）拍动  
     
     __flap__ n. 薄片；封盖；振动；激动
+  example: The bird flapped its wings and took off into the sky. 鸟拍打着翅膀飞向天空。
+  vocabulary:
+    - take off: '起飞，脱掉；成功，突然流行'
 
 wastage:   
   title: wastage
   text: __wastage__ [ˈweɪstɪdʒ] n. 消耗量；损耗；（雇员的）减员
+  example: The wastage of resources is a major concern for the environment. 资源的浪费是环境的一个主要问题。
 
 earthquake:   
   title: earthquake
   text: __earthquake__ [ˈɜːθkweɪk] n. 地震
+  example: The earthquake caused significant damage to the buildings in the city. 地震对城市的建筑造成了重大损失。
 
 device:   
   title: device
   text: __divice__ [dɪˈvaɪs] n. 装置，设备，仪表；方法；设计；手段；策略 an electrical or mechanical machine
-  example0: although many people enjoy using their "smart device" before going to bed, these habits can actually make it more difficult to fall asleep
-  example1: I now feel that, with the development of prostheses and other devices, it may not be long until all athletes, with or without disabilities, can face each other in the same space
+  example: 
+    - 1.Although many people enjoy using their "smart device" before going to bed, these habits can actually make it more difficult to fall asleep.
+    - 2.I now feel that, with the development of prostheses and other devices, it may not be long until all athletes, with or without disabilities, can face each other in the same space.我现在觉得，随着假肢及其他辅助设备的发展，或许用不了多久，所有运动员——无论是否残疾——都能在同一片赛场上同场竞技。
+  vocabulary:
+    - prosthesis: '[prɒsˈθiːsɪs] n. 假肢,弥补；义体'
 
 regulate:   
   title: regulate
+  similar: 
+    - control: '[kənˈtrəʊl] v. 控制，管理；抑制，克制'
+    - adjust: '[əˈdʒʌst] v. 调整，调节；适应'
+  family: regulation [ˌreɡjuˈleɪʃn] n. 规则，规章；管理，控制；调整，校准
   text: __requlate__ [ˈregjuleɪt] v. 管制，控制；调节，校准；调整
-  example: And the government's job is to regulate what people do.
+  example: The government's job is to regulate what people do.政府的职责是规范人们的行为。
 
 mould:   
   title: mould
@@ -183,6 +281,10 @@ mould:
     __mould__ [məuld] n. 霉，霉菌；模型，铸模；（人的）性格，气质  
     
     __mould__ v. 用模子制作，浇铸；使形成，把……塑造成
+  example: The mould on the bread made it inedible. 面包上的霉使它不能吃了。
+  vocabulary:
+    - inedible: '[ɪnˈedəbl] a. 不可食用的，不能吃的'
+    - edible: '[ˈedəbl] a. 可食用的，适合食用的'
 
 potential:   
   title: potential
@@ -190,15 +292,21 @@ potential:
     __potential__ [pəˈtenʃl] a. 潜在的；可能的 possible
     
     __potential__ n. 潜力，潜能
-  example: another potential problem of family travel is transportation
+  example: Another potential problem of family travel is transportation
 
 discretion:   
   title: discretion
   text: __discretion__ [dɪˈskreʃn] n. 判断力；谨慎，审慎；明智
+  family: discreet [dɪˈskriːt] a. 谨慎的，慎重的；不引人注意的
+  similar: 
+    - prudence: '[ˈpruːdns] n. 谨慎，审慎；精明'
+    - caution: '[ˈkɔːʃn] n. 小心，谨慎；警告'
+  example: The decision to invest in the stock market requires careful discretion. 投资股市需要慎重的判断。
 
 ambitious:   
   title: ambitious
   text: __ambitious__ [æmˈbɪʃəs] a. 有抱负的，有雄心的，有野心的
+  example: The ambitious student has a lot of potential. 雄心勃勃的学生有很多潜力。
 
 brief:   
   title: brief
@@ -208,10 +316,18 @@ brief:
     __brief__ n. 概要，摘要  
     
     __brief__ vt. 向……介绍基本情况，为……提供资讯
+  example: 
+    - 1.The brief meeting was productive and efficient. 简短的会议是富有成效和高效的。
+    - 2.Please give me a brief overview of the project. 请给我简要介绍一下这个项目。
+    - 3.The manager briefed the employees on the new company policies. 经理向员工介绍了公司的新政策。
+  vocabulary:
+    - productive: '[prəˈdʌktɪv] a. 富有成效的，有生产力的'
 
 dorm:   
   title: dorm
   text: __dorm__ [dɔːm] n. 宿舍
+  family: dormitory [ˈdɔːmɪtəri] n. 宿舍
+  example: The students lived in a dorm on campus. 学生们住在校园里的宿舍里。
 
 substitute:   
   title: substitute
@@ -219,12 +335,25 @@ substitute:
     __substitute__ [ˈsʌbstɪtjuːt] v. 代替，替换  
     
     __sustitute__ n. 代替者，代替物，代用品
+  
+  similar: 
+    - replace: '[rɪˈpleɪs] v. 替换，取代；替换，取代'
+    - exchange: '[ɪksˈtʃeɪndʒ] v. 交换，互换；兑换'
     
-  example: They are substituting violence for dialogue.
+  example: They are substituting violence for dialogue.他们在用暴力取代对话。
+  vocabulary:
+    - substitute A for B: '用A代替B'
 
 striking:   
   title: striking 
+  root: strike [straɪk] v. 打击；罢工；撞击；敲击；打动，给人印象深刻的事物
   text: __striking__ [ˈstraɪkɪŋ] a. 显著的，惹人注目的
+  similar: 
+    - remarkable: '[rɪˈmɑːkəbl] a. 非凡的，卓越的；引人注目的'
+    - impressive: '[ɪmˈpresɪv] a. 给人印象深刻的；令人钦佩的'
+  example: The striking contrast between the two paintings is evident. 两幅画之间的鲜明对比是显而易见的。
+  vocabulary:
+    - evident: '[ˈevɪdənt] a. 明显的，显而易见的'
 
 pirate:   
   title: pirate
@@ -232,49 +361,93 @@ pirate:
     __pirate__ [ˈpaɪərət] n. 侵犯版权者；海盗  
     
     __pirate__ vt. 盗用，盗版
+  similar:
+    - plagiarist: '[ˈpleɪdʒərɪst] n. 抄袭者，剽窃者'
+  example: The pirate copied the software without permission. 盗版者未经许可复制了软件。
 
 refrigerator:   
   title: refrigerator
+  similar: 
+    - fridge: '[frɪdʒ] n. 冰箱'
   text: __refirgerator__ [rɪ'frɪdʒəreɪtə(r)] n. 冰箱；冷藏库
+  example: The refrigerator keeps food fresh and prevents it from spoiling. 冰箱保持食物新鲜，防止它变质。
+  vocabulary:
+    - prevent ... from ...: '防止……'
 
 minimise:   
   title: minimise
   text: __minimise__ [ˈmɪnɪmaɪz] vt. 使减到最低限度；最小化
+  similar: 
+    - reduce: '[rɪˈdjuːs] v. 减少，缩小；降低'
+    - decrease: '[dɪˈkriːs] v. 减少，降低；减小'
+  example: The company is taking steps to minimise its environmental impact. 公司正在采取措施来最小化其对环境的影响。
 
 imaginative:   
   title: imaginative
   text: __imaginative__ [ɪ'mædʒɪnətɪv] a. 富有想象力的；创新的
+  example: The imaginative artist created a unique and original piece of art. 富有想象力的艺术家创作了一件独特而原创的艺术品。
+  vocabulary:
+    - original: '[ˌɔːrɪˈɒnɪəl] a. 独创的，原创的; n. 原件，原作'
 
 profit:   
   title: profit
+  similar: 
+    - gain: '[ɡeɪn] n. 收益，利润；增加；好处'
+    - benefit: '[ˈbenɪfɪt] n. 好处，利益；津贴，保险金'
   text: |
     __profit__ [ˈprɔfɪt] n. 利润；益处  
     
     __profit__ v. 有利于；获益
+  example: The company made a profit of $1 million last year. 公司去年赚了100万美元的利润。
 
 decrepit:   
   title: decrepit 
+  similar: 
+    - dilapidated: '[dɪˈlæpɪdeɪtɪd] a. 破旧的，年久失修的'
+    - shabby: '[ˈʃæbi] a. 破旧的，衣衫褴褛的；卑鄙的，肮脏的'
   text: __decrepit__ [dɪˈkrepɪt] a. 破旧的；衰老的
+  example: The decrepit building was in danger of collapsing. 这座破旧的建筑有倒塌的危险。
+  vocabulary:
+    - collapse: '[kəˈlæps] v. 倒塌，崩溃；暴跌；晕倒'
 
 ignorant:   
   title: ignorant
+  similar: 
+    - uneducated: '[ʌnˈedʒukeɪtɪd] a. 没受过教育的，未受教育的'
+    - illiterate: '[ɪˈlɪtərət] a. 不识字的，文盲的；无文化的，没受过教育的'
   text: __ignorant__ [ˈɪgnərənt] a. 无知的；愚昧的
+  example: The ignorant student is not prepared for the exams. 这个不知所云的学生不适合参加考试。
 
 leopard:   
   title: leopard 
   text: __leopard__ [ˈlepəd] n. 豹，美洲豹
+  example: The leopard is a large cat that is native to Africa and Asia. 豹是一种大型猫科动物，原产于非洲和亚洲。
+  vocabulary:
+    - native to: '原产于……'
 
 mastery:   
   title: mastery
+  similar: 
+    - proficiency: '[prəˈfɪʃnsi] n. 熟练，精通；能力'
+    - expertise: '[ˌekspɜːˈtiːz] n. 专业知识，专长；专门技能'
   text: __mastery__ [ˈmɑːstərɪ] n. 精通，熟练；控制
+  example: The mastery of a skill requires practice and dedication. 精通一项技能需要练习和奉献。
 
 forecast:   
   title: forecast
+  similar: 
+    - prediction: '[prɪˈdɪkʃn] n. 预测，预言；预报'
+    - projection: '[prəˈdʒekʃn] n. 预测，推测；计划，规划'
   text: __forecast__ [ˈfɔːkɑːst] n./vt. 预报；预测；预想
+  example: The weather forecast predicts rain for tomorrow. 天气预报预测明天会下雨。
 
 precision:   
   title: precision
+  similar: 
+    - accuracy: '[ˈækjərəsi] n. 准确性，精确性；精确度'
+    - exactness: '[ɪɡˈzæktnəs] n. 精确，准确；严密，严谨'
   text: __precision__ [prɪˈsɪʒn] n. 准确，精确；精确度
+  example: The precision of the measurements is crucial for the success of the experiment. 测量的精确性对于实验的成功至关重要。
 
 quote:   
   title: quote 
@@ -282,99 +455,158 @@ quote:
     __quote__ [kwəut] n. 引文，引语；估价，报价；[pl.] 引号  
     
     __quote__ v. 引用，引述，引证；提出，提供；报价
+  similar: 
+    - cite: '[saɪt] v. 引用，引证；表彰，表扬；传讯，传唤'
+    - state: '[steɪt] v. 陈述，说明；断定，断言；陈述，宣布'
+  example: The quote from the book was used in the essay. 书中的引文被用在了文章中。
 
 comparative:   
   title: comparative 
+  similar: 
+    - relative: '[ˈrelətɪv] a. 相对的；比较的；相关的'
+    - comparative advantage: '比较优势'
   text: __comparative__ [kəmˈpærətɪv] a. 比较的；相当的
+  example: The comparative analysis of the two products showed that they have similar features. 两个产品的比较分析显示它们具有相似的特征。
 
 recruit:   
   title: recruit
+  similar: 
+    - hire: '[aɪə] v. 雇用，聘用；聘请；雇佣  n. 雇员，员工'
   text: |
     __recruit__ [rɪˈkruːt] v. 招募（新兵），招收（新成员）；复原，恢复；补充  
     
     __recruit__ n. 新兵，新成员，新会员
+  example: The company is looking to recruit new employees to join their team. 公司正在寻找新员工加入他们的团队。
+  vocabulary:
+    - recruit new employees: '招募新员工'
 
 gloss:   
   title: gloss
+  similar: 
+    - shine: '[ʃaɪn] v. 发光，照耀；闪耀；擦亮'
+    - luster: '[ˈlʌstə(r)] n. 光泽，光辉；荣誉，威望'
   text: |
     __gloss__ [glɔs] n. 光泽，色泽；虚假的外表，假象；注解，解释  
     
     __gloss__ v. 使具有光泽；掩饰；曲解；作注释；发光，发亮
+  example: The gloss on the car made it look shiny and new. 汽车上的光泽使它看起来闪亮而崭新。
 
 committee:   
   title: committee
+  similar: 
+    - council: '[ˈkaʊnsl] n. 委员会，理事会；地方议会'
+    - board: '[bɔːd] n. 董事会；委员会；木板'
   text: __committee__ [kəˈmɪtɪ] n. 委员会，全体委员
+  example: The committee is responsible for making decisions on important issues. 委员会负责就重要问题做出决策。
 
 exile:   
   title: exile 
+  similar: 
+    - banish: '[ˈbænɪʃ] v. 放逐，流放；驱逐'
+    - deport: '[dɪˈpɔːt] v. 驱逐出境，遣送；放逐，流放'
   text: |
     __exile__ [ˈeksaɪl] vt. 放逐，流放，使流亡  
     
     __exile__ n. 流放，流亡；被流放者，背井离乡者，流犯
+  example: The political leader was exiled from his country for speaking out against the government. 这位政治领袖因反对政府而被流放出国。
+  vocuabulary:
+    - exile from: '放逐出……'
+    - speak out against: '公开反对'
 
 representative:   
   title: representative
+  similar: 
+    - delegate: '[ˈdelɪɡət] n. 代表，代表团成员；代理人'
+    - agent: '[ˈeɪdʒənt] n. 代理人，代理商；经纪人；特工'
   text: |
     __representative__ [ˏreprɪˈzentətɪv] n. 代表，代理人  
     
     __representative__ a. 典型的，有代表性的
+  example: The representative from the company presented the new product to the customers. 公司代表向客户介绍了新产品。
 
 reverse:   
   title: reverse
+  similar: 
+    - opposite: '[ˈɒpəzɪt] a. 相反的，对立的；对面的 n. 对立面，对立物'
+    - contrary: '[ˈkɔntrəri] a. 相反的；对立的；矛盾的 n. 相反情况；对立面'
   text: |
     __reverse__ [rɪˈvɜːs] n. 相反，颠倒；背面，后面  
     
     __reverse__ a. 相反的；倒转的，颠倒的  
     
     __reverse__ v. 颠倒，（使）倒退
-
-finance:   
-  title: finance
-  text: |
-    __finance__ [ˈfaɪnæns] vt. 为……提供资金  
-    
-    __finance__ n. 财政，金融；[常pl.] 财务情况
+  example: The reverse of the coin has a different design than the front. 硬币的背面设计与正面不同。
 
 resign:   
   title: resign
+  similar: 
+    - quit: '[kwɪt] v. 辞职，放弃；停止，戒掉'
+    - step down: '辞职，退位'
   text: __resign__ [rɪˈzaɪn] v. 辞职；辞去；放弃
+  example: The CEO decided to resign from his position due to personal reasons. 由于个人原因，首席执行官决定辞职。
+  vocabulary:
+    - resign from: '辞去……'
 
 preparation:   
   title: preparation 
   text: __preparation__ [ˏprepəˈreɪʃn] n. 准备（工作），预备；制剂
+  example: The preparation for the event took several weeks. 活动的准备工作花了几周时间。
 
 eyesight:   
   title: eyesight
   text: __eyesight__ [ˈaɪsaɪt] n. 视力
+  example: The doctor checked the patient's eyesight during the eye exam. 医生在眼科检查中检查了病人的视力。
 
 thrive:   
   title: thrive
+  similar: 
+    - prosper: '[ˈprɒspə(r)] v. 繁荣，兴旺；成功，昌盛'
+    - flourish: '[ˈflʌrɪʃ] v. 繁荣，兴旺；茂盛，旺盛'
   text: __thrive__ [θraɪv] vi. 兴旺，繁荣 to grow strong and healthy
-  example: the heart thrives when blood pressure is normal
+  example: The heart thrives when blood pressure is normal.血压正常时，心脏才能健康运转(兴旺)
 
 judgment:   
   title: judgment 
+  similar: 
+    - opinion: '[əˈpɪnjən] n. 意见，观点；看法'
+    - decision: '[dɪˈsɪʒn] n. 决定，决策；判决，裁定'
   text: __judgment__ ['dʒʌdʒmənt] n. 意见；审判；判断（力）
+  example: The judge made a fair judgment based on the evidence presented in court. 法官根据法庭上提供的证据做出了公正的判决。
 
 outward:   
   title: outward
+  similar: 
+    - external: '[ɪkˈstɜːnl] a. 外部的，外面的；外界的；对外的'
+    - superficial: '[ˌsuːpəˈfɪʃl] a. 表面的，肤浅的；外表的，外在的'
   text: __outward__ [ˈautwəd] a. 外面的；外表的，表面的
+  example: The outward appearance of the building was beautiful. 建筑的外表看起来很漂亮。
 
 consequently:   
   title: consequently 
   text: __consequently__ [ˈkɔnsikwəntli] ad. 因此，因而
+  example: The consequently high prices caused concern among consumers. 因此，高昂的价格引起了消费者的不满。
 
 entertain:   
   title: entertain 
   text: __entertain__ [ˏentəˈteɪn] v. （使）欢乐，（使）娱乐；招待
+  example: I'd like to entertain you with my latest novel. 我很高兴与你分享我最新作品。
 
 withstand:   
   title: withstand 
+  similar: 
+    - resist: '[rɪˈzɪst] v. 抵抗，反抗；抵触，反感'
+    - stand: '[stænd] v. 站立，坐下；竖立；支持，抵抗；屈服；忍受'
   text: __withstand__ [wɪðˈstænd; wɪθˈs-] vt. 抵挡；经受住
+  example: The soldier withstood the onslaught of the enemy with ease. 士兵们轻松应对了敌人的进攻。
+  vocabulary:
+    - withstand the onslaught: '经受住敌人的进攻'
+    - onslaught: '[ˈɒnslət] n. 攻击，轰炸；激烈竞争'
+
 
 anthropologist:   
   title: anthropologist 
   text: __anthropologist__ [‚ænθrə'pɒlədʒɪst] n. 人类学家
+  example: Anthropologists study the human body and its relationship with other animals and plants. 人类学家研究人体及其与其他动物和植物的关系。
 
 comb:   
   title: comb 
@@ -382,7 +614,12 @@ comb:
     __comb__ [kəum] n. 梳子；蜂巢；（鸡等的）肉冠，冠状物  
     
     __comb__ v. 梳理；搜寻，彻底搜查
+  example: The comb was used to clean the floor. 梳子用来清洁地面。
 
 suitably:   
   title: suitably
+  similar: 
+    - appropriate: '[əˈprɒpət] a. 适当的，恰当的；合适的，适宜的'
+    - suitable: '[ˈsʌtəbl] a. 适当的，合适的；合宜的，适宜的'
   text: __suitably__ [ˈsu:təbli] ad. 合适地，适宜地，相称地
+  example: The suitably sized bed was provided for the guests. 专门为客人的床位提供。
