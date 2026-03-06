@@ -4,8 +4,8 @@
 emperor:
   title: emperor
   text: __emperor__ [ˈempərə(r)] n. 皇帝；君主
-  example: The emperor;s wisdom and leadership united the diverse regions of his vast empire.
-  vacabulary:
+  example: The emperor's wisdom and leadership united the diverse regions of his vast empire.
+  vocabulary:
     - diverse: "[daɪˈvɜːs] a. 多种多样的，不同的; 强调多元化的"
     - vast: "[ˈvɑːst] a. 广阔的，丰富的； 巨大的"
     - empire: "[ˈempaɪə(r)] n. 帝国"
@@ -13,16 +13,15 @@ regent:
   title: regent
   text: __regent__ [ˈriːdʒənt] n. 摄政者（代国王统治者）
   example: During the young king's minority, the regent managed the kingdom's affairs with wisdom and fairness.
-  vacabulary:
+  vocabulary:
     - minority: "[maɪˈnɔːrɪtɪ] n. 少数；未成年"
     - affair: "[əˈfɔːz] n. 事务；事务所；事务范围"
-  phase:
     - during one's minority: 在某人未成年期间[法律意义上]
 burgeon:
   title: burgeon
   text: __burgeon__ [ˈbɜːdʒən] vi. 迅速成长；发展
   example: With the arrival of spring, the garden begun to burgeon with vibrant flowers and lush greenery.
-  vacabulary:
+  vocabulary:
     - vibrant: "[ˈvaɪbrənt] a. 充满生机的；鲜艳的"
     - lush: "[lʌʃ] a. 茂盛的，繁茂的； 丰富的"
     - greenery: "[ˈɡriːnəri] n. 绿色植物；绿叶"
@@ -34,7 +33,7 @@ methane:
   title: methane
   text: __methane__ [/ˈmeθeɪn/] n. 甲烷，沼气
   example: Methane is potent greenhouse gas that is released during the decomposition of organic matter in landfills.
-  vacabulary:
+  vocabulary:
     - potent: '[ˈpəʊtnt] a. 强有力的；有效的'
     - greenhouse gas: 温室气体
     - decomposition: '[ˌdiːkɒmpəˈzɪʃn] n. 分解；腐烂'
@@ -71,7 +70,7 @@ chronic:
   phase:
     - chronic disease: 慢性病
     - suffer from: 遭受，患有
-  vacabulary:
+  vocabulary:
     - persist: '[pəˈsɪst] vi. 持续存在；坚持'
     - treatment: '[ˈtriːtmənt] n. 治疗；处理'
 desirable:
@@ -188,10 +187,9 @@ density:
 massive:
   title: massive
   text: __massive__ [ˈmæsɪv] a. 大而重的，厚实的，粗大的；大量的，大规模的 huge
-  example0: this memorial is home to a massive statue of President Abraham Lincoln and an engraved copy of Lincoln's famous speech, the Gettysburg Address
-  exampel1: one important similarity between Brazil and the United States is their massive size
-congratulate:
-  mathch: 查看常用搭配
+  example: 
+   - 1.This memorial is home to a massive statue of President Abraham Lincoln and an engraved copy of Lincoln's famous speech, the Gettysburg Address [这座纪念馆内矗立着亚伯拉罕·林肯总统的巨型雕像，还镌刻着林肯著名的演说辞——《葛底斯堡演说》。]
+   - 2.One important similarity between Brazil and the United States is their massive size
 companion:
   title: companion
   text: __companion__ [kəmˈpænɪən] n. 共事者；同伴

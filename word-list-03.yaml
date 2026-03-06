@@ -1,177 +1,313 @@
 # ==============================================================================
 # Word List 03
 # ==============================================================================
+divergent:
+  title: divergent
+  form: diverge [daɪˈvɜːdʒ] v. 分叉，分开；（意见等）分歧，背离；（气候）变暖，变冷
+  text: __divergent__ [dɪˈvɜːɡənt] a. 不同的，分歧的；不一致的；不一致的方向
+  example: The divergent opinions on the issue led to a heated debate. 关于这个问题的不同意见引发了一场激烈的辩论。
+reconcile:
+  title: reconcile
+  text: __reconcile__ [rɪˈkənsl] vt. 使和睦，调和；使和解；使一致；使和解
+  example: The two sides were able to reconcile their differences and reach an agreement. 双方能够调和他们的分歧并达成协议。
+  vocabulary:
+    - reconcile differences: 调和分歧
+    - reconcile with: 与……和解
 suffer:
   title: suffer
   text: __suffer__ [ˈsʌfə(r)] v. 遭受，忍受；忍耐；容许；患病；受损失
+  example: The company suffered a significant loss due to the economic downturn. 由于经济衰退，公司遭受了重大损失。
+  vocabulary:
+    - downturn: '[ˈdaʊntɜːn] n. 经济衰退, 下降'
+    - suffer from: 遭受，患病
+    - suffer loss: 遭受损失
 impede:
   title: impede
   text: __impede__ [ɪmˈpiːd] vt. 阻碍，妨碍
+  example: The project impedes the progress of the company. 该项目妨碍了公司的进展。
 spring:
   title: spring
   text: "__spring__ [sprɪŋ] n. 春天，春季；弹簧，发条；弹性，弹力；（源）泉；跳跃  \n\n__spring__ v. 跳跃；涌现，突然出现；突然提出（或说出）\n"
+  example: The spring is a beautiful sight to behold. 春天是一幅美丽的景色。
+  vocabulary:
+    - behold: '[bɪˈhəʊld] vt. 看见，注视；凝视'
 deduce:
   title: deduce
   text: __deduce__ [dɪˈdjuːs] v. 演绎，推断
+  example: The author deduced that the text was written by a fraudulent character. 作者推断说这篇文章是由一个骗子写的。
+  vocabulary:
+    - fraudulent: '[ˈfrɔdʒələnt] a. 欺诈的，骗人的'
+    - fraud: '[frɔːd] n. 欺诈，诈骗；骗子'
 doctorate:
   title: doctorate
   text: __doctorate__ ['dɒktərɪt] n. 博士学位
+  example: She earned her doctorate in physics from a prestigious university. 她从一所著名大学获得了物理学博士学位。
+  vocabulary:
+    - earn: '[ɜːn] vt. 获得，挣得；赚取；赢得'
+    - prestigious: '[ˈprestɪʒəs] a. 声望很高的，有声望的'
+    - prestige: '[preˈstiːʒ] n. 声望，威信；威望很高的地位'
 theoretical:
   title: theoretical
   text: __theoretical__ [ˏθɪəˈretɪkl] a. 理论（上）的
+  example: The theoretical basis of the theory is important for understanding the phenomena. 理论的理论基础对于理解现象至关重要。
 internship:
   title: internship
-  text: __internship__ ['ɪntɜːnʃɪp] n. 实习身份；实习医师
+  text: __internship__ ['ɪntɜːnʃɪp] n. 实习生；实习期；实习医师的职位
+  example: The internship provided valuable experience for the students. 实习为学生提供了宝贵的经验。
+  vocabulary:
+    - valuable experience: 有价值的经验
 slender:
   title: slender
   text: __slender__ [ˈslendə(r)] a. 修长的，细长的，苗条的；微小的，微薄的
+  example: The slender tree swayed in the wind. 细长的树在风中摇摆。
+  vocabulary:
+    - sway: '[swaɪ] vi. 摇摆；颤动；摆动；摇曳；摆动；摇摆不定；摆动不安'
 respondent:
   title: respondent
   text: __respondent__ [rɪˈspɔndənt] n. 回答者，响应者；调查对象；被告
+  example: The respondent provided valuable insights into the research. 回答者为研究提供了宝贵的见解。
 voluntary:
   title: voluntary
   text: __voluntary__ [ˈvɔləntrɪ] a. 自愿的，志愿的
+  example: The voluntary organization provides assistance to those in need. 这个志愿组织为有需要的人提供帮助。
+  vocabulary:
+    - volunteer: '[ˈvɔləntə(r)] n. 志愿者；自愿者；乐于助人的人'
+    - in need: 处于需要某些东西（如生活必需品）的状态
 submarine:
   title: submarine
   text: "__submarine__ [ˏsʌbməˈriːn; ˈsʌbməriːn] n. 潜水艇  \n\n__submarine__ a. 水底的，海底的\n"
+  from: marine [məˈriːn] a. 海的，海生的；海军的,海军陆战队士兵
+  example: The submarine is a popular activity for tourists. 潜水艇是游客喜欢的活动。
 notion:
   title: notion
   text: __notion__ [ˈnəuʃn] n. 概念，观念；想法
+  example: The notion of freedom is important in many cultures. 自由的概念在许多文化中都很重要。
 lavatory:
   title: lavatory
   text: __lavatory__ [ˈlævətrɪ] n. 盥洗室，厕所
+  example: The lavatory is located on the second floor. 洗手间位于二楼。
 tablet:
   title: tablet
   text: __tablet__ [ˈtæblɪt] n. 药片
+  example: The doctor prescribed a tablet for the patient's condition. 医生为患者的病情开了一片药。
+  vocabulary:
+    - prescribe: '[prɪˈskraɪb] vt. 开药，给予；命令；指定'
+    - prescribe for: 开处方,开药方
 fold:
   title: fold
   text: "__fold__ [fəuld] v. 折叠  \n\n__fold__ n. 皱；折\n"
+  example: You can fold the paper in half to create a card. 你可以把纸对折来制作一张卡片。
 compulsory:
   title: compulsory
   text: __compulsory__ [kəmˈpʌlsərɪ] a. 义务的；必须做的；强制性的；（课程）必修的
+  similar: mandatory [ˈmændətɔːrɪ] a. 强制的，义务的；必须的
+  example: The compulsory course is highly recommended for all students. 义务课程对所有学生都十分推荐。
 irritation:
   title: irritation
   text: __irritation__ [‚ɪrɪ'teɪʃn] n. 激怒，恼怒；刺激物，恼人的事
+  example: The irritation caused the customer to cancel the order. 恼怒导致客户订单取消。
+  vocabulary:
+    - irritate: '[ˈɪrɪteɪt] vt. 激怒，使烦恼；刺激，使恼怒'
 expense:
   title: expense
   text: __expense__ [ɪkˈspens] n. 花费，开支；消费，消耗；代价，损失
+  example: The expense of the project was higher than expected. 该项目的花费比预期的要高。
 muddle:
   title: muddle
   text: "__muddle__ [ˈmʌdl] n. 一团糟，凌乱，混乱；（头脑）糊涂，困惑  \n\n__muddle__ vt. 将……弄成一团糟；使困惑，使糊涂；混淆\n"
+  example: The muddle of the situation made it difficult to find a solution. 情况的混乱使得找到解决方案变得困难。
+  vocabulary:
+    - muddle through: 勉强应付，勉强度过
 originate:
   title: originate
   text: __originate__ [əˈrɪdʒɪneɪt] v. 起源，发生；首创，创造
+  example: The tradition originated in ancient times. 这个传统起源于古代。
+  vocabulary:
+    - originate in: 起源于
+    - ancient times: 古代
 induce:
   title: induce
   text: __induce__ [ɪnˈdjuːs] vt. 引诱，劝使；引起，导致；感应
+  example: The new policy induced many people to change their behavior. 新政策促使许多人改变了他们的行为。
 disharmony:
   title: disharmony
   text: __disharmony__ [dɪsˈhɑːmənɪ] n. 不一致；不和谐
+  example: The disharmony between the two groups led to conflicts. 两个群体之间的不和谐导致了冲突。
+  vocabulary:
+    - harmony: '[ˈhɑːmənɪ] n. 和谐，协调；和声'
 cosset:
   title: cosset
   text: "__cosset__ [ˈkɔsɪt] vt. 宠爱，溺爱 \n\n__cosset__ n. 宠儿\n"
+  example: The cosset is a beautiful girl. 这位宠儿是一位美丽的女孩。
 crossword:
   title: crossword
   text: __crossword__ [ˈkrɔswɜːd] n. 纵横填字游戏
+  example: The crossword puzzle is a popular pastime for many people. 纵横填字游戏是许多人喜欢的消遣活动。
+  vocabulary:
+    - puzzle: '[ˈpʌzl] n. 谜题，拼图，益智游戏; v. 使迷惑，困惑'
+    - pastime: '[ˈpæstaim] n. 消遣，娱乐，爱好'
 atomic:
   title: atomic
   text: __atomic__ [əˈtɔmɪk] a. 原子（能）的
-disagree:
-  title: disagree
-  text: __disagree__ [ˏdɪsəˈgriː] v. 不同意；不一致
+  example: The atomic bomb was a powerful weapon during World War II. 原子弹是二战期间的一种强大武器。
 check-up:
   title: check-up
   text: __check-up__ ['tʃekʌp] n. 检查
+  example: The doctor recommended a check-up to ensure good health. 医生建议进行检查以确保身体健康。
+  vocabulary:
+    - check up: 检查，核实
 silt:
   title: silt
   text: "__silt__ [sɪlt] n. 淤泥  \n\n__silt__ v. （用淤泥）阻塞\n"
+  example: The river was blocked by silt, causing flooding in the area. 河流被淤泥阻塞，导致该地区发生洪水。
 inclusive:
   title: inclusive
   text: __inclusive__ [ɪnˈkluːsɪv] a. 包括一切费用在内的；所有数目（或首尾日期）包括在内的；包容广阔的
+  relate: exclusive [ɪk'skluːsɪv] a. 独有的，专有的；排外的；（新闻）独家报道的
+  example: The inclusive price of the tour includes accommodation, meals, and transportation. 旅游的全包价格包括住宿、餐饮和交通。
 reservation:
   title: reservation
+  form: reserve [rɪˈzɜːv] v. 预定，预订；保留，储备；预约；保留意见
   text: __reservation__ [ˏrezəˈveɪʃn] n. 保留意见，存疑；预定，预订
+  example: The reservation for the hotel was made in advance. 酒店的预订是提前完成的。
 transcript:
   title: transcript
   text: __transcript__ ['trænskrɪpt] n. 抄本，副本；文字记录
-include:
-  title: include
-  text: __include__ [ɪnˈkluːd] v. 包括，包含；计入
+  example: The transcript of the interview was published in the newspaper. 采访的文字记录被刊登在报纸上。
 abode:
   title: abode
-  text: __abode__ [əˈbəud] n. 房屋，家，住所
+  text: __abode__ [əˈbəud] n. 房屋，家，住所 [比较正式的用法]
+  example: The abode of the family is located in a quiet neighborhood. 这个家庭的住所位于一个安静的社区。
 gadget:
   title: gadget
   text: __gadget__ [ˈgædʒɪt] n. 小巧的器械，精巧的装置；小玩意
+  example: The gadget is a useful tool for everyday tasks. 这个小玩意是日常任务的有用工具。
 legacy:
   title: legacy
   text: __legacy__ [ˈlegəsɪ] n. 遗产，遗赠
+  example: The legacy of the ancient civilization is still evident in the ruins. 古代文明的遗产在废墟中仍然显而易见。
+  vocabulary:
+    - evident: '[ˈevɪdənt] a. 明显的，显而易见的'
 leisure:
   title: leisure
   text: __leisure__ [ˈleʒə(r)] n. 空闲时间；悠闲
+  example: The leisure activities include reading, watching movies, and playing sports. 休闲活动包括阅读、看电影和运动。
+  vocabulary:
+    - leisure activities: 休闲活动
+    - leisure time: 空闲时间
+    - at leisure: 悠闲地，随意地
 overlap:
   title: overlap
   text: __overlap__ [ˏəuvəˈlæp] v. （使）部分重叠，交叠
+  example: The two circles overlap each other, creating a Venn diagram. 两个圆部分重叠，形成一个维恩图。
+  vocabulary:
+    - Venn diagram: 维恩图
+    - diagram: 图表，图形
 counterpart:
   title: counterpart
   text: __counterpart__ [ˈkauntəpɑːt] n. 与对方地位相当的人；配对物；副本
+  example: The counterpart of the CEO in the company is the president. 公司CEO的对应职位是总裁。
 tune:
   title: tune
   text: "__tune__ [tjuːn] vt. 调音；调节，调整  \n\n__tune__ n. 调子；和谐\n"
+  example: The musician tuned his guitar before the performance. 音乐家在表演前调音了他的吉他。
 strike:
   title: strike
   text: "__strike__ [straɪk] v. 打；折磨  \n\n__strike__ n. 罢工\n"
+  example: The workers went on strike to demand better working conditions. 工人们罢工要求更好的工作条件。
 ambiguous:
   title: ambiguous
   text: __ambiguous__ [æmˈbɪgjuəs] a. 含糊其辞的； 不明确的，模棱两可的
+  example: The ambiguous statement caused confusion among the audience. 含糊不清的陈述引起了观众的困惑。
 vanish:
   title: vanish
   text: __vanish__ [ˈvænɪʃ] vi. 突然消失； 不复存在，消逝
+  example: The magician made the rabbit vanish from the hat. 魔术师让兔子从帽子里消失了。
+  vocabulary:
+    - magician: '[məˈdʒɪʃn] n. 魔术师，戏法师；魔法师'
 mechanism:
   title: mechanism
   text: __mechanism__ [ˈmekənɪzəm] n. 机械装置；机制，机理；办法
+  example: The mechanism of the machine is complex and requires regular maintenance. 机器的机械装置复杂，需要定期维护。
 dispute:
   title: dispute
   text: "__dispute__ [dɪˈspjuːt] n. 争论，争端，争吵  \n\n__dispute__ v. 对……表示异议；争论，争吵\n"
+  example: The dispute between the two parties was resolved through negotiation. 双方之间的争端通过谈判解决了。
+  vocabulary:
+    - negotiate: '[nɪˈɡeɪtʃən] v. 谈判，协商；协商解决'
 strengthen:
   title: strengthen
   text: __strengthen__ ['strŋθn] vt. 加强，巩固
+  example: The new policy is designed to strengthen the economy. 新政策旨在加强经济。
 workaholic:
   title: workaholic
   text: __workaholic__ [ˏwɜːkəˈhɔlɪk] n. 工作狂
+  example: The workaholic spends long hours at the office and rarely takes breaks. 工作狂在办公室工作很长时间，很少休息。
+  vocabulary:
+    - take breaks: 休息一下
 unaware:
   title: unaware
+  form: aware [əˈweə(r)] a. 意识到的，知道的；有……意识的
   text: __unaware__ [ˏʌnəˈweə(r)] a. 未意识到的
+  example: The driver was unaware of the pedestrian crossing the road. 司机没有意识到行人正在过马路。
+  vocabulary:
+    - be aware of: 意识到，知道
+    - be unaware of: 没有意识到，不知道
+    - pedestrian: '[pəˈdestriən] n. 行人'
 erosion:
   title: erosion
   text: __erosion__ [ɪ'rəʊʒn] n. 腐蚀；磨损
+  from: erode [ɪˈrəʊd] v. 侵蚀，腐蚀；磨损
+  example: The erosion of the coastline is a major concern for environmentalists. 海岸线的侵蚀是环境保护专家们的关注点。
+  vocabulary:
+    - coastline: '[ˈkəʊstlaɪn] n. 海岸线，海岸地带'
 exclusively:
   title: exclusively
+  from: exclusive [ɪk'skluːsɪv] a. 独有的，专有的；排外的；（新闻）独家报道的
   text: __exclusively__ [ɪk'skluːsɪvlɪ] ad. 专有地，专门地
+  example: The restaurant serves exclusively vegetarian dishes. 这家餐厅专门提供素食菜肴。
+  vocabulary:
+    - vegetarian: '[ˌvedʒəˈteəriən] n. 素食者；a. 素食的'
 feather:
   title: feather
   text: __feather__ [ˈfeðə(r)] n. 羽毛，翎毛
+  example: The bird's feathers are colorful and soft. 这只鸟的羽毛色彩鲜艳，柔软。
 pronounceable:
   title: pronounceable
   text: __pronounceable__ [prə'naʊnsəbl] a. （指声音）发得出的；（指词）可发音的
+  example: The word is difficult to pronounceable for non-native speakers. 这个词对于非母语者来说很难发音。
 bare:
   title: bare
   text: __bare__ [beə(r)] a. 赤裸的，光秃的
+  example: The tree was bare in the winter. 这棵树在冬天是光秃的。
 luggage:
   title: luggage
   text: __luggage__ [ˈlʌgɪdʒ] n. 行李
+  example: The luggage was lost during the flight. 行李在飞行过程中丢失了。
 hose:
   title: hose
   text: "__hose__ [həuz] n. 软管  \n\n__hose__ vt. 用软管淋\n"
+  example: The hose was wet and had to be washed. 软管湿了，必须用水洗干净。
 bulb:
   title: bulb
   text: __bulb__ [bʌlb] n. 灯泡
+  example: The bulb in the lamp needs to be replaced. 灯里的灯泡需要更换了。
 ion:
   title: ion
   text: __ion__ [ˈaɪən] n. 离子
+  example: The ion is a type of element that is used in radioactive decay. 离子是一种放射性物质的一种元素。
+  vocabulary:
+    - radioactive: '[ˈrædɪəktɪv] a. 放射性的，放射性的'
+    - decay: '[dɪk] n. 腐蚀，衰变'
 cruise:
   title: cruise
   text: "__cruise__ [kruːz] v. 航游，巡航；（出租车、船等）缓慢巡行 \n\n__cruise__ n. 旅游，游戈\n"
+  example: The cruise is a popular pastime for tourists. 游轮旅游是游客喜欢的消遣方式。
+  vocabulary:
+    - pastime: '[ˈpæstaim] n. 消遣，娱乐，爱好'
 shave:
   title: shave
   text: __shave__ [ʃeɪv] n./v. 修面
+  example: The man shaved his beard to remove the dirt. 这个男人刮掉了他的胡子以去除污垢。
+  vocabulary:
+    - beard: '[bɪəd] n. 胡子，络腮胡子'
