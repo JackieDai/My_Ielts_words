@@ -4,7 +4,8 @@
 
 pulley:   
   title: pulley
-  text: __pulley__ [ˈpulɪ] n. 滑轮；滑车
+  text: __pulley__ [ˈpulɪ] n. 滑轮；滑车;皮带轮
+  example: The pulley was designed to be easy to use and handle.这个滑轮的设计旨在易于使用和操作。
 
 privilege:   
   title: privilege 
@@ -12,29 +13,39 @@ privilege:
     __privilege__ [ˈprɪvəlɪdʒ] n. 特权，优惠，特许  
     
     __privilege__ vt. 给予特权，特别优待
+  example: I am grateful for the privilege of being able to work from home. 我很感激有这份特权，能够在家工作。
 
 infrastructure:   
   title: infrastructure
+  root: infra-,低于，在下方，structure,结构。引申词义基础结构，基础设施
   text: __infrastructure__ ['ɪnfrəstrʌktʃə(r)] n. 基础结构，基础设施
+  example: The infrastructure of the city is well-designed and modern. 城市的基础设施设计得很好，现代化。
 
 allocate:   
   title: allocate 
   text: __allocate__ [ˈæləkeɪt] vt. 分配；分派
+  example: The company has allocated funds to various projects. 公司已经分配了资金到不同的项目。
 
 qualification:   
   title: qualification 
   text: __qualification__ [ˏkwɔlɪfɪˈkeɪʃn] n. 资格，合格；技能；限定，条件；合格证
+  example: The candidate must have a good understanding of the qualification requirements. 应聘者必须对资格要求有深刻理解。
 
 expand:   
   title: expand 
   text: __expand__ [ɪkˈspænd] v. （使）膨胀，（使）扩张；张开，展开；详述
+  example: The company has expanded its operations to new markets. 公司已经扩大了业务范围，向新的市场开放。
+  vocabulary:
+    - operation: '[ɔːpərɪʃn] 业务经营；运作，实施；运转，操作；手术；（有组织的）活动，行动；军事行动；企业，公司；（数学）运算'
 
 trap:   
   title: trap 
   text: |
     __trap__ [træp] n. 陷阱，圈套，诡计  
-
     __trap__ vt. 诱捕，诱骗，使中圈套；使陷入困境，使受限制
+  example: Suspecting nothing, he walked right into the trap. 他毫无觉察，径直走入陷阱。
+  vocabulary:
+    - suspect nothing: 毫无怀疑
 
 intern:   
   title: intern  
@@ -42,26 +53,35 @@ intern:
     __intern__ [ɪnˈtɜːn] vt. 拘禁，软禁 
 
     __intern__ [ˈɪntɜːn] n. 实习生
+  example: The company has hired an intern to assist with the renovation. 公司聘请了一名实习生来协助改造。
+  vocabulary:
+    - assist with: 协助，帮助
+    - renovation: '[rɪˈnəʊvən] n. 改造，翻新'
+    - innovation: '[ɪnəʊvən] n. 创新，革新'
 
 repaint:   
   title: repaint 
   text: __repaint__ [ri:'peɪnt] v. 重新油漆，重画
-
-specialist:   
-  title: specialist 
-  text: __specialist__ ['speʃəlɪst] n. 专家；专科医生
+  example: The walls were repainted in a new color. 墙壁重新涂上了新颜色。
 
 migratory:   
   title: migratory 
   text: __migratory__ ['maɪgrətrɪ] a. 迁徙的，迁居的；流动的，游牧的
+  example: The migratory birds migrate from one area to another. 鸟类会迁徙到不同的地区。
 
 nutrition:   
   title: nutrition 
   text: __nutrition__ [njuˈtrɪʃn] n. 营养；营养学
+  example: The nutrition of the food is important for maintaining a healthy body. 食物的营养对于保持健康体态至关重要。
 
 inlet:   
   title: inlet 
   text: __inlet__ [ˈɪnlet] n. 入口；进（水）口，水湾
+  example: The inlet of the dam is located at the bottom of the river. 河床的入口位于河床的底部。
+  vocabulary:
+    - inlet: 河床的入口
+    - outlet: 河床的出口
+    - dam: 河床,水坝
 
 censor:   
   title: censor 
@@ -69,10 +89,14 @@ censor:
     __censor__ [ˈsensə(r)] vt. 审查，检查（书报）  
 
     __censor__ n. 检查员
+  example: The censor has removed the article from the newspaper. 审查员已经从报纸上删除了这篇文章。
 
 widespread:   
   title: widespread 
   text: __wildspread__ [ˈwaɪdspred] a. 分布广的；普遍的 covering a large area
+  similar: 
+    - extensive: 广泛的，广阔的
+    - universal: 全体的，普遍的
   example: one of the most widespread dangers has to do with maintaining individual Internet privacy
 
 hazard:   
@@ -81,6 +105,11 @@ hazard:
     __hazard__ [ˈhæzəd] n. 危险，冒险  
 
     __hazard__ v. 尝试着做（或提出）；冒……风险
+  similar: 
+    - risk: 冒险，危险
+  example: 
+    - The hazardous situation could result in death or injury. 这种危险状况可能会导致死亡或伤害。
+    - A new report suggests that chewing gum may be a health hazard.一份新的报告指出，嚼口香糖可能给健康带来危害。
 
 rear:   
   title: rear 
@@ -90,14 +119,21 @@ rear:
     __rear__ n. 后部，尾部  
 
     __rear__ v. 饲养，抚养；种植
+  example: The rear of the car is usually kept clean and free of debris. 车后部通常保持干净整洁，没有任何杂物。
+  vocabulary:
+    - debris: '[dɪˈbrɪs] n. 碎片，残渣, 杂物'
 
 shareholder:   
   title: shareholder 
   text: __shareholder__ [ˈʃeəhəʊldə(r)] n. 股票持有人；股东
+  example: The shareholder meeting is scheduled for next week. 股东大会将于下周举行。
+  vocabulary:
+    - be scheduled for: 计划，安排
 
 bid:   
   title: bid 
   text: __bid__ [bɪd] n./v. 出价；投标
+  example: The company has bids for the project. 这家公司已经对该项目进行了投标。
 
 alight:   
   title: alight 
@@ -105,6 +141,9 @@ alight:
     __alight__ [əˈlaɪt] a. 点着的  
 
     __alight__ vi. 降落，飞落；从（公共汽车等）下来
+  example: The plane has alighted from the runway. 飞机已经从跑道上降落。
+  vocabulary:
+    - runway: '[rʌnweɪ] n. 跑道，跑道跑道'
 
 credit:   
   title: credit 
@@ -112,10 +151,14 @@ credit:
     __credit__ [ˈkredɪt] vt. 记入贷方；把……归于  
 
     __credit__ n. 信用贷款，赊欠；信任，相信；贷方；荣誉，名望；光荣，功劳；学分
+  example: The company has received a credit of $100,000. 公司已经收到一笔100000美元的信用贷款。
 
 shrewd:   
   title: shrewd 
   text: __shrewd__ [ʃruːd] a. 机灵的；精明的
+  similar: 
+    - clever: 聪明的，机灵的
+  example: The company's management is shrewd and experienced. 公司的管理层是聪明而有经验的。
 
 desert:   
   title: desert 
@@ -125,10 +168,15 @@ desert:
     __desert__ a. 沙漠的；荒凉的
 
     __desert__ [dɪˈzɜːt] v. 舍弃
+  similar: 
+    - abandon: 放弃，抛弃
+    - give up: 放弃，放弃做
+  example: The desert is becoming more and more difficult to navigate. 沙漠变得越来越难以行走。
 
 conclude:   
   title: conclude 
   text: __conclude__ [kənˈkluːd] v. 推断出；作结论
+  example: The company has concluded that the project is not profitable. 公司已经作出结论，认为该项目不盈利。
 
 explosive:   
   title: explosive 
@@ -136,38 +184,52 @@ explosive:
     __explosive__ [ɪkˈspləusɪv] n. 爆炸物，炸药  
 
     __explosive__ a. 爆炸的，爆发的；使人冲动的
+  example: The explosive gas is dangerous and can cause severe injuries. 爆炸性气体危险，可能导致严重伤害。
+  vocabulary:
+    - severe: '[sɪər] a. 严重的，危险的'
 
 inherent:   
   title: inherent 
   text: __inherent__ [ɪnˈhɪərənt] a. 内在的；生来就有的
+  similar: 
+    - intrinsic: '[/ɪnˈtrɪnzɪk/] a. 内在的，固有的'
+  example: The inherent danger of the project is that it may not be successful. 该项目潜在的危险在于，它可能无法成功。
 
 world-wide:   
   title: world-wild
   text: __world-wild__ ['wɜ:ldwaɪd] a./ad. 遍及全球的/地 universally; internationally
-  example: there are 2.8 billion active social media users worldwide, and that number keeps growing year after year
+  example: There are 2.8 billion active social media users worldwide, and that number keeps growing year after year.全球有28亿活跃的社交媒体用户，并且这一数字还在逐年增长。
 
 grope:   
   title: grope 
   text: __grope__ [grəup] v. （暗中）摸索
+  similar: 
+    - search: 搜索，探索
+  example: 
+    - 1. Why grope after the meaning of a word?  为什么要去探究一个词的含义呢？
+    - 2. I'm a writer, yet I grope for the right words. 我是一名作家，却总在苦苦寻觅恰当的词句。
 
 lever:   
   title: lever 
+  similar: 
+    - leverage: '[ˈliːvə(r)] n. 杠杆；施压手段'
   text: |
     __lever__ [ˈliːvə(r)] vt. （用杠杆）撬动  
     
     __lever__ n. 杠杆；施压手段
+  example: The lever was pulled back and the car started to move. 杠杆被拉回，汽车开始移动。
 
 ethical:   
   title: ethical 
   text: __ethical__ [ˈeθɪkl] a. （有关）道德的；伦理的
-
-improvement:   
-  title: improvement 
-  text: __improvement__ [ɪm'pru:vmənt] n. 改进，进步；改进措施；改进处
+  example: The ethical standards of the company are high. 公司的道德准则很高。
 
 vacant:   
   title: vacant 
+  similar: 
+    - empty: 空的，空虚的
   text: __vacant__ [ˈveɪkənt] a. 未占用的，空的
+  example: The office is currently vacant. 办公室目前空空如也。
 
 truant:   
   title: truant 
@@ -175,26 +237,49 @@ truant:
     __truant__ [ˈtruːənt] vi. 逃避责任；旷课  
 
     __truant__ n. 逃学者；逃避者
+  example: The truant student has been dismissed. 逃学的学生已经被开除。
+  vocabulary:
+    - dismiss: '[dɪsˈmɪs] vt. 解雇，开除；解散；解散会议'
 
 scandal:   
   title: scandal 
   text: __scandal__ [ˈskændl] n. 丑事，丑闻；恶意诽谤；流言飞语；反感，愤慨
+  simiar: 
+    - scandalous: 丑恶的，恶意诽谤的
+  example: The scandal over the company's recent performance has caused a lot of damage. 公司最近的业绩丑闻已经造成了很大的损失。
+  vocabulary:
+    - damage: '[dæmɪdʒ] n. 损害，损伤；毁坏，毁灭;费用，代价'
 
 latent:   
   title: latent
   text: __latent__ [ˈleɪtnt] a. 潜在的，潜伏的，不易察觉的
+  similar: 
+    - subliminal: 微妙的，潜伏的
+  example: The latent terror of the attack has become more and more apparent. 这次袭击的潜在恐怖已经变得越来越明显。
+  vocabulary:
+    - terror: '[ˈterər] n. 恐怖，恐惧'
+    - apparent: 'əˈpɪrənt''a. 显而易见的，明显的，表面的'
+    - obvious: 'əˈbʊvə(r)''a. 显而易见的，明显的，表面的'
 
 tenant:   
   title: tenant 
   text: __tenant__ [ˈtenənt] n. 承租人；房客；佃户
+  example: The tenant has been evicted from the property. 房客已经被驱逐出该房产。
+  vocabulary:
+    - evict from: 驱逐出，出租出
+    - property: "[ˈprɒpəti] n. 房产，住宅；财产"
 
 psychiatric:   
   title: psychiatric 
   text: __psychiatric__ [ˌsaɪkiˈætrɪk] a. 精神病的；治疗精神病的
+  example: The psychiatric nurse is responsible for treating the patient's psychological issues. 这位精神科护士负责处理患者的心理/精神问题
+  vocabulary:
+    - psychological: '[saɪˈkɒlədʒɪkl] a. 心理的，精神的'
 
 campfire:   
   title: campfire 
   text: __campfire__ [ˈkæmpfaɪə(r)]] n. 营火
+  example: The campfire is a popular summer activity for families. 营火是家庭的热门夏季活动。
 
 bolster:   
   title: bolster 
@@ -202,25 +287,19 @@ bolster:
     __bolster__ [ˈbəulstə(r)] vt. 支持，支撑；改善  
 
     __bolster__ n. 垫子
+  similar:
+    - strengthen: 加强，增强
+
+  example: The bolster was used to strengthen the car's suspension. 垫子被用来强化汽车的悬挂。
+  vocabulary:
+    - suspension: '/səˈspenʃ(ə)n/ n. 悬挂，悬吊；悬索 ;暂停，中止；暂令停职'
+    - suspend: '/səˈspend/ vt. 悬挂，悬吊；暂停，中止；暂令停职'
+
 
 immigrant:   
   title: immigrant 
   text: __immigrant__ [ˈɪmɪgrənt] n. 移民；侨民
-
-sequence:   
-  title: sequence 
-  text: __sequence__ [ˈsiːkwəns] n. 一系列，一连串；顺序，次序
-
-ecosystem:   
-  title: ecosystem 
-  text: __ecosystem__ [ˈiːkəusɪstəm] n. 生态系统
-
-concern:   
-  title: concern 
-  text: |
-    __concern__ [kənˈsɜːn] vt. 涉及；使关心；让（人）担忧  
-
-    __concern__ n. 关心；关注
+  example: The city has a large number of legal immigrants.这座城市有大量合法移民。
 
 transfer:   
   title: transfer 
@@ -228,36 +307,34 @@ transfer:
     __transfer__ [trænsˈfɜː(r)] v. 搬，转移；调动，转学；转让，过户；转车，换乘
 
     __transfer__ [ˈtrænsfɜː(r)] n. 转移；调动；转车，换乘
+  example: The transfer of the car to the new owner will take place on July 1st. 车辆的转让给新主人的日期将是7月1日。
+  vocabulary:
+    - transfer ... to ... : “转移 ... 到 ...”
+    - take place : “发生、举行”
 
 exotic:   
   title: exotic 
   text: __exotic__ [ɪgˈzɔtɪk] a. 外来的；奇异的；醒目的，吸引人的
+  example: She has a partiality for exotic flowers. 她特别喜爱异国花卉
 
 evaporate:   
   title: evaporate 
   text: __evaporate__ [ɪˈvæpəreɪt] v. （使）蒸发；消失；不复存在
+  example: Blasting cold air over it makes the water evaporate. 向它上面快速喷冷气可使水蒸发掉``
 
 destiny:   
   title: destiny 
   text: __destiny__ [ˈdestɪnɪ] n. 命运，定数
+  similar: 
+    - fate: 命运
+  example: The destiny of the people is uncertain. 人们的命运未必如此。
 
-hide:   
-  title: hide 
-  text: |
-    __hide__ [haɪd] v. （躲）藏  
 
-    __hide__ n. 皮革，兽皮
-
-former:   
-  title: former 
-  text: |
-    __former__ [ˈfɔːmə(r)] a. 以前的  
-
-    __former__ n. 前者
 
 awful:   
   title: awful 
   text: __awful__ [ˈɔːfl] a. 糟糕的
+  example: The awful weather has made travel difficult. 糟糕的天气使得旅行变得困难。
 
 sore:   
   title: sore
@@ -265,22 +342,29 @@ sore:
     __sore__ [sɔː(r)] a. 痛的；恼火的；剧烈的  
 
     __sore__ n. 疮
+  similar: 
+    - pain: 疼痛，痛苦
+  example: The sore throat is making me feel unwell. 喉咙疼痛让我感到不适。
 
 virtually:   
   title: virtually 
-  text: __virtually__ [ˈvɜ:tʃuəli] ad. 几乎，差不多；实际上，事实上
+  text: __virtually__ [ˈvɜ:tʃuəli] ad. 几乎，差不多；实际上，事实上; 模拟地
+  example: The company's sales are virtually nil. 公司的销售额几乎为零。
 
 tangibly:   
   title: tangibly 
   text: __tangibly__ ['tændʒəblɪ] ad. 可触摸地；可感知地；有形地
+  example: The tangible benefits of the project are numerous. 该项目的具体好处很多。
 
 windscreen:   
   title: windscreen 
   text: __windscreen__ [ˈwɪndskri:n] n. 挡风玻璃；风档
+  example: The windscreen is designed to protect the driver from the elements. 风玻璃设计使驾驶员免受大气的影响。
 
 decent:   
   title: decent 
   text: __decent__ [ˈdiːsnt] a. 大方的，体面的，像样的；正派的，合乎礼仪的
+  example: The decent dining room is decorated with colorful furnishings. 整洁的餐厅装饰得十分华丽。
 
 alluvial:   
   title: alluvial 
@@ -288,48 +372,47 @@ alluvial:
     __alluvial__ [əˈluːvɪəl] a.[地] 冲积的，淤积的  
 
     __alluvial__ n. 冲积土（或层、矿床），淤积土
+  example:
+    - The alluvial deposits are formed by the flow of water and sediments. 冲积土沉积是由水流和沉淀物形成的。
+  vocabulary:
+    - deposits: '/dɪˈpɔzɪt/ n. 积水，沉积物；沉淀物'
+    - sediments: '/ˈsɛdɪmənt/ n. 沉淀物，沉积物'
 
 slum:   
   title: slum 
   text: __slum__ [slʌm] n. 贫民窟，贫民区
+  example: The slum is becoming more and more dangerous. 贫民窟变得越来越危险。
 
 distill:   
   title: distill
   text: __distill__ [dɪs'tɪl] vt. （使）蒸馏，提取
-
-economical:   
-  title: economical 
-  text: __economical__ [ˏiːkəˈnɔmɪkl] a. 节约的；经济的
+  example: How do you distill your life down to its essence? 如何才能提炼你生活的精华呢？
+  vocabulary:
+    - essence: '/ɪˈsenʃ/ n. 精华; 本质'
 
 fate:   
   title: fate 
   text: __fate__ [feɪt] n. 命运，天数
+  similar:
+    - destiny: 命运
+  example: The fate of the people is uncertain. 人们的命运未必如此。
 
 medication:   
   title: medication 
   text: __medication__ [ˌmedɪˈkeɪʃn] n. 药；药物
+  example: The medication is effective in treating the symptoms. 药物对症治疗有效。
 
-target:   
-  title: target 
-  text: |
-    __target__ [ˈtɑːgɪt] n. 目标；对象，靶子  
 
-    __target__ vt. 对准，面向
-
-independent:   
-  title: independent 
-  text: |
-    __independent__ [ˏɪndɪˈpendənt] a. 独立的，自主的，不受约束的   
-
-    __independent__ n. 中立派，无党派议员
 
 radius:   
   title: radius 
   text: __radius__ [ˈreɪdɪəs] n. 半径；周围，范围
+  example: The radius of the earth is approximately 6,371 kilometers. 地球的半径约为6,371公里。
 
 fossil:   
   title: fossil 
   text: __fossil__ [ˈfɔsl] n. 化石；老顽固
+  example: The fossil remains are used to study the past. 化石遗迹被用来研究过去。
 
 shade:   
   title: shade 
@@ -337,18 +420,28 @@ shade:
     __shade__ [ʃeɪd] n. 阴凉处；（灯）罩；暗部；色度；细微差别 
 
     __shade__ vt. 遮蔽，遮光；把……涂暗
+  example: Let's sit in the shade for a while. 咱们在阴凉处坐一会儿吧。
 
 headmaster:   
   title: headmaster
   text: __headmaster__ [ˌhedˈmɑ:stə(r)] n. （中小学）校长
+  example: The headmaster is responsible for the education of the class. 校长负责教育班级。
 
 wean:   
   title: wean 
   text: __wean__ [wiːn] vt. （使）断奶，（使）戒掉
+  example: The baby is weaned from the breastfeeding program.宝宝已经从母乳喂养阶段断奶了。
 
 comprise:   
   title: comprise 
   text: __comprise__ [kəmˈpraɪz] vt. 包含；由……组成
+  similar:
+    - include: 包含
+    - consist of: 由……组成
+    - make up: 组成
+    - constitute: 构成
+    - comprise of: 由……组成
+  example: The building comprise of a large complex of buildings. 建筑由大型建筑群组成。
 
 stable:   
   title: stable 
@@ -356,24 +449,32 @@ stable:
     __stable__ [ˈsteɪbl] a. 稳定的，稳固的，安定的；沉稳的，持重的  
 
     __stable__ n. 马厩
+  example: Mentally, she is not very stable. 她的心理状态不十分稳定。
 
-disappointing:   
-  title: disappointing 
-  text: __disappointing__ [ˌdɪsəˈpɔɪntɪŋ] a. 令人失望的
-
-delta:   
-  title: delta 
-  text: __delta__ [ˈdeltə] n. 三角洲；希腊字母表的第四个字母
 
 urban:   
   title: urban 
   text: __urban__ [ˈɜːbən] a. 都市的；住在都市的 related to the city
-  example: two U.S. cities that illustrate this are Chicago and Miami, large urban areas whose climates could not be more different
+  example: Two U.S. cities that illustrate this are Chicago and Miami, large urban areas whose climates could not be more different. 两座美国城市可以说明这一点，它们是芝加哥和迈阿密，这两个大型都市地区的气候差异再明显不过。
+  vocabulary:
+    - ...could not be more ... : “... 不能再...”
 
 compliment:   
   title: compliment 
   text: __compliment__ [ˈkɔmplɪmənt] n. 赞美；[pl.] 问候，祝贺
+  root: 词源同complement, 补足，完成。原义指完成礼仪，表达尊重，多用于客套性的用语
+  similar:
+    - commend: 称赞，赞美
+    - praise: 称赞，赞美
+  example: I compliment you on your excellent work. 我赞赏你在工作上表现出的杰出成绩。
+  vocabulary:
+    - compliment on ... : “赞美...”
+    - paying a compliment : 称赞称誉赞美奖饰
 
 execution:   
   title: execution 
   text: __execution__ [ˏeksɪˈkjuːʃn] n. 执行，实施；处决
+  example: The execution of the deed will be held on July 1st. 法律执行日期定为7月1日。
+  vocabulary:
+    - deed: '/dɪˈdiː/ n. 行为，事实'
+    - held on ... : “举行, 进行...”
